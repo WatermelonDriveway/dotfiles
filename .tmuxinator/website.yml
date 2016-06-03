@@ -1,0 +1,10 @@
+# ~/.tmuxinator/website.yml
+
+name: website
+root: ~/
+
+windows:
+- stylesheet: vi ~/documents/website/style.css
+- index: vi ~/documents/website/index.html
+- music: vi ~/documents/website/music.html
+- store: vi ~/documents/website/store.html

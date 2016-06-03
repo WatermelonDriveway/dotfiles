@@ -1,0 +1,36 @@
+[2016-04-08 02:46:12] WeeChat 1.4 (compiled on Feb 15 2016 02:00:08)
+[2016-04-08 02:46:12] Reading configuration file sec.conf
+[2016-04-08 02:46:12] Reading configuration file weechat.conf
+[2016-04-08 02:46:12] Reading configuration file plugins.conf
+[2016-04-08 02:46:12] Reading configuration file charset.conf
+[2016-04-08 02:46:12] Reading configuration file logger.conf
+[2016-04-08 02:46:12] Reading configuration file exec.conf
+[2016-04-08 02:46:12] Reading configuration file trigger.conf
+[2016-04-08 02:46:12] Reading configuration file alias.conf
+[2016-04-08 02:46:12] Reading configuration file xfer.conf
+[2016-04-08 02:46:12] Reading configuration file irc.conf
+[2016-04-08 02:46:12] Reading configuration file relay.conf
+[2016-04-08 02:46:12] Reading configuration file buffers.conf
+[2016-04-08 02:46:12] Reading configuration file iset.conf
+[2016-04-08 02:46:12] Reading configuration file script.conf
+[2016-04-08 02:46:15] irc: connecting to server irc.twitch.tv/6667...
+[2016-04-08 02:46:16] Writing configuration file irc.conf
+[2016-04-08 02:46:16] Writing configuration file irc.conf
+[2016-04-08 02:46:20] Writing configuration file irc.conf
+[2016-04-08 02:46:39] Writing configuration file irc.conf
+[2016-04-08 02:46:41] Writing configuration file irc.conf
+[2016-04-08 04:29:20] Signal SIGHUP received, exiting WeeChat...
+[2016-04-08 04:29:20] Writing configuration file plugins.conf
+[2016-04-08 04:29:20] Writing configuration file xfer.conf
+[2016-04-08 04:29:20] Writing configuration file trigger.conf
+[2016-04-08 04:29:20] Writing configuration file script.conf
+[2016-04-08 04:29:20] Writing configuration file relay.conf
+[2016-04-08 04:29:20] Writing configuration file buffers.conf
+[2016-04-08 04:29:20] Writing configuration file iset.conf
+[2016-04-08 04:29:20] Writing configuration file logger.conf
+[2016-04-08 04:29:20] Writing configuration file irc.conf
+[2016-04-08 04:29:20] Writing configuration file exec.conf
+[2016-04-08 04:29:20] Writing configuration file charset.conf
+[2016-04-08 04:29:20] Writing configuration file alias.conf
+[2016-04-08 04:29:20] Writing configuration file weechat.conf
+[2016-04-08 04:29:20] Writing configuration file sec.conf

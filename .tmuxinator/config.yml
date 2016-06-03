@@ -1,0 +1,13 @@
+# ~/.tmuxinator/config.yml
+
+name: config
+root: ~/
+
+windows:
+- homepage: homepage
+- bashrc: brc
+- ncmpcpp: vi ~/.ncmpcpp/config
+- mpd: vi ~/.mpd/mpd.conf
+- bar: vi /Users/JnNy/Library/Application\ Support/Übersicht/widgets/bar/index.coffee
+- config: vi /Users/JnNy/.tmuxinator/config.yml
+- beets: vi /Users/JnNy/.config/beets/config.yaml

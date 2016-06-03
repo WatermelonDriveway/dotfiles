@@ -1,0 +1,47 @@
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_music_dir = “/Volumes/1024/Music“
+lyrics_directory = "~/.ncmpcpp/lyrics"
+
+## execute_on_song_change = "/Users/JnNy/Documents/Scripts/mpdalbumart.sh"
+
+playlist_display_mode = columns
+
+now_playing_prefix = "$b•"
+now_playing_suffix = "•$/b"
+
+song_list_format = "$5%A $1│ $1%t $R $5%b"
+
+song_columns_list_format = "(5)[default]{} (75)[default]{t}  (20)[blue]{lr} (2)[]{}"
+## song_columns_list_format = "(47)[default]{ar}  (10)[white]{lr}  (47)[default]{t}"
+song_library_format = "{%n - }{%t}|{%f}"
+
+statusbar_visibility = "no"
+header_visibility = "no"
+titles_visibility = "no"
+
+##progressbar_look = "── "
+progressbar_color = "black"
+progressbar_elapsed_color = "blue"
+progressbar_look = "▄▄ "
+progressbar_boldness = "no"
+
+user_interface = classic 
+
+
+
+header_window_color = "black"
+alternative_header_first_line_format = {$1%a} 
+alternative_header_second_line_format = {$1%b}
+
+
+
+media_library_primary_tag = album_artist
+playlist_separate_albums = yes
+
+main_window_color = "default"
+main_window_highlight_color = "black"
+
+
+song_status_format = "$1%a - %b (%y)"
+statusbar_color = "black"

@@ -1,0 +1,27 @@
+directory: /Volumes/1024/Music
+library: ~/.beets/musiclibrary.blb
+art_filename: albumart
+
+paths:
+   default: $albumartist/($original_year) $album/$track $title
+   comp: Various Artists/($original_year) $album/$track $title
+
+plugins: fetchart embedart mbsync
+
+fetchart:
+   auto: yes
+   minwidth: 500
+   enforce_ratio: yes
+   sources: coverart itunes amazon albumart google
+   
+embedart:
+   auto: yes
+   minwidth: 500
+   enforce_ratio: yes
+   sources: coverart itunes amazon albumart google
+
+import:
+   write: yes
+   copy: yes
+   group_albums: yes
+   original_date: yes

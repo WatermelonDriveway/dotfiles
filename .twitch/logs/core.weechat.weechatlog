@@ -1,0 +1,2016 @@
+2015-03-10 16:11:51		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 16:12:33		script: downloading list of scripts...
+2015-03-10 16:12:36		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 16:12:36		script: script "iset.py" not found
+2015-03-10 16:12:41		perl: loading script "/Users/JnNy/.twitch/perl/iset.pl"
+2015-03-10 16:12:41		perl: registered script "iset", version 3.6 (Interactive Set for configuration options)
+2015-03-10 16:12:41		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2015-03-10 16:12:41		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2015-03-10 16:12:41		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2015-03-10 16:12:41		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2015-03-10 16:12:50		python: loading script "/Users/JnNy/.twitch/python/autoconnect.py"
+2015-03-10 16:12:50		python: registered script "autoconnect", version 0.2.3 (reopens servers and channels opened last time weechat closed)
+2015-03-10 16:14:20		perl: loading script "/Users/JnNy/.twitch/perl/colorize_lines.pl"
+2015-03-10 16:14:20		perl: registered script "colorize_lines", version 3.3 (colors text in chat area with according nick color, including highlights)
+2015-03-10 16:17:18		irc: server twitch created
+2015-03-10 16:17:58		Options saved to sec.conf
+2015-03-10 16:17:58		Options saved to weechat.conf
+2015-03-10 16:17:58		Options saved to plugins.conf
+2015-03-10 16:17:58		Options saved to alias.conf
+2015-03-10 16:17:58		Options saved to charset.conf
+2015-03-10 16:17:58		Options saved to exec.conf
+2015-03-10 16:17:58		Options saved to irc.conf
+2015-03-10 16:17:58		Options saved to logger.conf
+2015-03-10 16:17:58		Options saved to relay.conf
+2015-03-10 16:17:58		Options saved to script.conf
+2015-03-10 16:17:58		Options saved to trigger.conf
+2015-03-10 16:17:58		Options saved to xfer.conf
+2015-03-10 16:17:58		Options saved to iset.conf
+2015-03-10 16:18:00		python: scripts unloaded
+2015-03-10 16:18:00		perl: scripts unloaded
+2015-03-10 16:18:04		perl scripts loaded: colorize_lines, iset
+2015-03-10 16:18:04		python scripts loaded: autoconnect
+2015-03-10 16:18:04		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 16:18:04		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 16:18:13		Options saved to sec.conf
+2015-03-10 16:18:13		Options saved to weechat.conf
+2015-03-10 16:18:13		Options saved to plugins.conf
+2015-03-10 16:18:13		Options saved to alias.conf
+2015-03-10 16:18:13		Options saved to charset.conf
+2015-03-10 16:18:13		Options saved to exec.conf
+2015-03-10 16:18:13		Options saved to irc.conf
+2015-03-10 16:18:13		Options saved to logger.conf
+2015-03-10 16:18:13		Options saved to iset.conf
+2015-03-10 16:18:13		Options saved to relay.conf
+2015-03-10 16:18:13		Options saved to script.conf
+2015-03-10 16:18:13		Options saved to trigger.conf
+2015-03-10 16:18:13		Options saved to xfer.conf
+2015-03-10 16:18:14		python: scripts unloaded
+2015-03-10 16:18:14		perl: scripts unloaded
+2015-03-10 16:18:16		perl scripts loaded: colorize_lines, iset
+2015-03-10 16:18:16		python scripts loaded: autoconnect
+2015-03-10 16:18:16		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 16:18:16		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 16:18:22		script: script "autoconnect.py" is already installed and up-to-date
+2015-03-10 16:18:37		python: scripts unloaded
+2015-03-10 16:18:37		perl: scripts unloaded
+2015-03-10 16:18:38		perl scripts loaded: colorize_lines, iset
+2015-03-10 16:18:38		python scripts loaded: autoconnect
+2015-03-10 16:18:38		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 16:18:38		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 16:19:20		Option changed: irc.server.twitch.autoconnect = on  (default: (undefined))
+2015-03-10 16:19:23		python: scripts unloaded
+2015-03-10 16:19:23		perl: scripts unloaded
+2015-03-10 16:19:26		perl scripts loaded: colorize_lines, iset
+2015-03-10 16:19:26		python scripts loaded: autoconnect
+2015-03-10 16:19:26		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 16:19:26		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 16:19:50		Options saved to irc.conf
+2015-03-10 16:20:22		Option changed: irc.look.smart_filter = on
+2015-03-10 16:20:25		Filter "irc_smart" added:
+2015-03-10 16:20:25		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2015-03-10 16:22:04		Option changed: weechat.look.buffer_time_format = ""  (default: "%H:%M:%S")
+2015-03-10 16:22:17		Option changed: weechat.look.prefix_align_max = 20  (default: 0)
+2015-03-10 16:22:19		Option changed: weechat.look.prefix_align_min = 20  (default: 0)
+2015-03-10 16:22:26		Option changed: weechat.look.prefix_suffix = " "  (default: "|")
+2015-03-10 16:23:29		Option changed: weechat.color.chat_nick_colors = "green,lightgreen,magenta,lightblue,default,lightmagenta,blue"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2015-03-10 16:23:39		Option changed: weechat.color.chat_read_marker = magenta
+2015-03-10 16:23:43		Option changed: weechat.color.chat_read_marker = blue  (default: magenta)
+2015-03-10 16:23:46		Options saved to sec.conf
+2015-03-10 16:23:46		Options saved to weechat.conf
+2015-03-10 16:23:46		Options saved to plugins.conf
+2015-03-10 16:23:46		Options saved to alias.conf
+2015-03-10 16:23:46		Options saved to charset.conf
+2015-03-10 16:23:46		Options saved to exec.conf
+2015-03-10 16:23:46		Options saved to irc.conf
+2015-03-10 16:23:46		Options saved to logger.conf
+2015-03-10 16:23:46		Options saved to iset.conf
+2015-03-10 16:23:46		Options saved to relay.conf
+2015-03-10 16:23:46		Options saved to script.conf
+2015-03-10 16:23:46		Options saved to trigger.conf
+2015-03-10 16:23:46		Options saved to xfer.conf
+2015-03-10 16:24:14		Option changed: irc.color.input_nick = blue  (default: lightcyan)
+2015-03-10 16:24:40		Options saved to irc.conf
+2015-03-10 16:24:44		Options saved to irc.conf
+2015-03-10 16:24:59		Option changed: logger.color.backlog_line = black  (default: default)
+2015-03-10 16:25:03		Option changed: logger.color.backlog_end = black  (default: default)
+2015-03-10 16:25:07		Options saved to irc.conf
+2015-03-10 16:25:10		Options saved to irc.conf
+2015-03-10 16:58:07		Options saved to irc.conf
+2015-03-10 16:58:09		Options saved to irc.conf
+2015-03-10 17:21:48		Options saved to irc.conf
+2015-03-10 17:21:50		python: scripts unloaded
+2015-03-10 17:21:50		perl: scripts unloaded
+2015-03-10 22:15:08		perl scripts loaded: colorize_lines, iset
+2015-03-10 22:15:08		python scripts loaded: autoconnect
+2015-03-10 22:15:08		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 22:15:09		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 22:15:09		Options saved to irc.conf
+2015-03-10 22:15:09		Options saved to irc.conf
+2015-03-10 22:15:14		Options saved to irc.conf
+2015-03-10 22:15:26		python: scripts unloaded
+2015-03-10 22:15:26		perl: scripts unloaded
+2015-03-10 22:14:32		perl scripts loaded: colorize_lines, iset
+2015-03-10 22:14:33		python scripts loaded: autoconnect
+2015-03-10 22:14:33		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 22:14:33		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 22:14:33		Options saved to irc.conf
+2015-03-10 22:14:38		Options saved to irc.conf
+2015-03-10 22:15:29		perl scripts loaded: colorize_lines, iset
+2015-03-10 22:15:29		python scripts loaded: autoconnect
+2015-03-10 22:15:29		script: 279 scripts for WeeChat 1.1.1
+2015-03-10 22:15:29		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-10 22:15:30		Options saved to irc.conf
+2015-03-10 22:15:30		Options saved to irc.conf
+2015-03-10 22:15:33		Options saved to irc.conf
+2015-03-11 03:26:00		Options saved to irc.conf
+2015-03-11 03:26:01		python: scripts unloaded
+2015-03-11 03:26:01		perl: scripts unloaded
+2015-03-11 16:22:50		python: scripts unloaded
+2015-03-11 16:22:50		perl: scripts unloaded
+2015-03-11 17:58:14		perl scripts loaded: colorize_lines, iset
+2015-03-11 17:58:14		python scripts loaded: autoconnect
+2015-03-11 17:58:14		script: downloading list of scripts...
+2015-03-11 17:58:14		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-11 17:58:15		Options saved to irc.conf
+2015-03-11 17:58:15		Options saved to irc.conf
+2015-03-11 17:58:17		script: 279 scripts for WeeChat 1.1.1
+2015-03-11 17:58:19		Options saved to irc.conf
+2015-03-11 17:58:21		Options saved to irc.conf
+2015-03-11 17:58:25		Options saved to irc.conf
+2015-03-11 20:07:50		Options saved to irc.conf
+2015-03-11 20:07:52		Options saved to irc.conf
+2015-03-11 23:40:15		Options saved to irc.conf
+2015-03-11 23:40:19		Options saved to irc.conf
+2015-03-12 01:44:22		perl scripts loaded: colorize_lines, iset
+2015-03-12 01:44:22		python scripts loaded: autoconnect
+2015-03-12 01:44:22		script: 279 scripts for WeeChat 1.1.1
+2015-03-12 01:44:22		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-12 01:44:23		Options saved to irc.conf
+2015-03-12 01:44:23		Options saved to irc.conf
+2015-03-12 01:44:28		Options saved to irc.conf
+2015-03-12 01:44:36		Options saved to irc.conf
+2015-03-12 01:44:40		Options saved to irc.conf
+2015-03-12 02:34:03		Options saved to irc.conf
+2015-03-12 02:34:05		Options saved to irc.conf
+2015-03-12 02:34:48		Option changed: irc.color.nick_prefixes = "q:blue;a:blue;o:blue;h:blue;v:blue;*:blue"  (default: "q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue")
+2015-03-12 02:34:54		Options saved to irc.conf
+2015-03-12 02:34:56		Options saved to irc.conf
+2015-03-12 02:39:56		Options saved to irc.conf
+2015-03-12 02:39:59		Options saved to irc.conf
+2015-03-12 03:23:21		Filter "joinquit" added:
+2015-03-12 03:23:21		  [joinquit] buffer: * / tags: irc_join,irc_part,irc_quit / regex: * 
+2015-03-12 03:23:25		Options saved to sec.conf
+2015-03-12 03:23:25		Options saved to weechat.conf
+2015-03-12 03:23:25		Options saved to plugins.conf
+2015-03-12 03:23:25		Options saved to alias.conf
+2015-03-12 03:23:25		Options saved to charset.conf
+2015-03-12 03:23:25		Options saved to exec.conf
+2015-03-12 03:23:25		Options saved to irc.conf
+2015-03-12 03:23:25		Options saved to logger.conf
+2015-03-12 03:23:25		Options saved to iset.conf
+2015-03-12 03:23:25		Options saved to relay.conf
+2015-03-12 03:23:25		Options saved to script.conf
+2015-03-12 03:23:25		Options saved to trigger.conf
+2015-03-12 03:23:25		Options saved to xfer.conf
+2015-03-12 03:27:44		Option changed: weechat.bar.input.items = "input_text"  (default: "[input_prompt]+(away),[input_search],[input_paste],input_text")
+2015-03-12 03:27:49		Options saved to sec.conf
+2015-03-12 03:27:49		Options saved to weechat.conf
+2015-03-12 03:27:49		Options saved to plugins.conf
+2015-03-12 03:27:49		Options saved to alias.conf
+2015-03-12 03:27:49		Options saved to charset.conf
+2015-03-12 03:27:49		Options saved to exec.conf
+2015-03-12 03:27:49		Options saved to irc.conf
+2015-03-12 03:27:49		Options saved to logger.conf
+2015-03-12 03:27:49		Options saved to iset.conf
+2015-03-12 03:27:49		Options saved to relay.conf
+2015-03-12 03:27:49		Options saved to script.conf
+2015-03-12 03:27:49		Options saved to trigger.conf
+2015-03-12 03:27:49		Options saved to xfer.conf
+2015-03-12 03:44:33		Options saved to irc.conf
+2015-03-12 15:57:39		Options saved to irc.conf
+2015-03-12 15:57:42		Options saved to irc.conf
+2015-03-12 15:57:47		Options saved to irc.conf
+2015-03-12 15:58:47		Options saved to irc.conf
+2015-03-12 15:59:06		Options saved to irc.conf
+2015-03-12 17:37:11		Options saved to irc.conf
+2015-03-12 17:37:14		Options saved to irc.conf
+2015-03-12 17:38:19		Options saved to irc.conf
+2015-03-12 20:59:09		Options saved to irc.conf
+2015-03-12 21:04:34		Options saved to irc.conf
+2015-03-12 21:04:42		Options saved to irc.conf
+2015-03-13 00:37:15		Options saved to irc.conf
+2015-03-13 00:37:18		Options saved to irc.conf
+2015-03-13 01:34:04		Option changed: weechat.color.chat_highlight_bg = magenta
+2015-03-13 01:34:08		Option changed: weechat.color.chat_highlight_bg = red  (default: magenta)
+2015-03-13 01:34:14		Option changed: weechat.color.chat_highlight = blue  (default: yellow)
+2015-03-13 01:34:20		Option changed: weechat.color.chat_highlight = white  (default: yellow)
+2015-03-13 01:34:33		Option changed: weechat.color.chat_highlight = default  (default: yellow)
+2015-03-13 01:34:52		Options saved to sec.conf
+2015-03-13 01:34:52		Options saved to weechat.conf
+2015-03-13 01:34:52		Options saved to plugins.conf
+2015-03-13 01:34:52		Options saved to alias.conf
+2015-03-13 01:34:52		Options saved to charset.conf
+2015-03-13 01:34:52		Options saved to exec.conf
+2015-03-13 01:34:52		Options saved to irc.conf
+2015-03-13 01:34:52		Options saved to logger.conf
+2015-03-13 01:34:52		Options saved to iset.conf
+2015-03-13 01:34:52		Options saved to relay.conf
+2015-03-13 01:34:52		Options saved to script.conf
+2015-03-13 01:34:52		Options saved to trigger.conf
+2015-03-13 01:34:52		Options saved to xfer.conf
+2015-03-13 04:25:45		Options saved to irc.conf
+2015-03-13 04:25:50	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-13 04:25:59		Options saved to irc.conf
+2015-03-13 05:02:11		Options saved to irc.conf
+2015-03-13 16:14:26		python: scripts unloaded
+2015-03-13 16:14:26		perl: scripts unloaded
+2015-03-17 17:15:02		perl scripts loaded: colorize_lines, iset
+2015-03-17 17:15:02		python scripts loaded: autoconnect
+2015-03-17 17:15:02		script: downloading list of scripts...
+2015-03-17 17:15:02		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-17 17:15:02		Options saved to irc.conf
+2015-03-17 17:15:03		script: 279 scripts for WeeChat 1.1.1
+2015-03-17 17:15:07		Options saved to irc.conf
+2015-03-17 17:22:42		Options saved to irc.conf
+2015-03-17 17:22:48		Options saved to irc.conf
+2015-03-17 17:23:04		python: scripts unloaded
+2015-03-17 17:23:04		perl: scripts unloaded
+2015-03-17 17:23:22		perl scripts loaded: colorize_lines, iset
+2015-03-17 17:23:22		python scripts loaded: autoconnect
+2015-03-17 17:23:22		script: 279 scripts for WeeChat 1.1.1
+2015-03-17 17:23:22		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-17 17:23:22		Options saved to irc.conf
+2015-03-17 17:23:30		Options saved to irc.conf
+2015-03-17 17:23:35		Options saved to irc.conf
+2015-03-17 17:25:58		Options saved to irc.conf
+2015-03-17 17:26:02		Options saved to irc.conf
+2015-03-17 17:29:01		Options saved to irc.conf
+2015-03-17 17:55:10		Options saved to irc.conf
+2015-03-17 17:55:14	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-17 17:55:17		python: scripts unloaded
+2015-03-17 17:55:17		perl: scripts unloaded
+2015-03-17 17:55:18		perl scripts loaded: colorize_lines, iset
+2015-03-17 17:55:18		python scripts loaded: autoconnect
+2015-03-17 17:55:18		script: 279 scripts for WeeChat 1.1.1
+2015-03-17 17:55:18		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-17 17:55:31		Options saved to irc.conf
+2015-03-17 21:59:58		Options saved to irc.conf
+2015-03-17 22:00:03		Options saved to irc.conf
+2015-03-17 22:00:43		Options saved to irc.conf
+2015-03-17 22:00:55		Options saved to irc.conf
+2015-03-18 00:13:51		perl scripts loaded: colorize_lines, iset
+2015-03-18 00:13:51		python scripts loaded: autoconnect
+2015-03-18 00:13:51		script: 279 scripts for WeeChat 1.1.1
+2015-03-18 00:13:51		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-18 00:13:51		Options saved to irc.conf
+2015-03-18 00:13:51		Options saved to irc.conf
+2015-03-18 00:14:02		Options saved to irc.conf
+2015-03-18 00:14:11		Options saved to irc.conf
+2015-03-18 00:14:17		Options saved to irc.conf
+2015-03-18 00:14:36	=!=	Error: unknown bar "buffers"
+2015-03-18 00:14:43		perl: loading script "/Users/JnNy/.twitch/perl/buffers.pl"
+2015-03-18 00:14:43		perl: registered script "buffers", version 5.0 (Sidebar with list of buffers)
+2015-03-18 00:14:43		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2015-03-18 00:14:43		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2015-03-18 00:14:43		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2015-03-18 00:14:43		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2015-03-18 00:14:55		Option changed: weechat.bar.buffers.position = top  (default: left)
+2015-03-18 00:15:15		Option changed: buffers.look.show_number = off  (default: on)
+2015-03-18 00:15:37		Option changed: weechat.bar.buffers.separator = off  (default: on)
+2015-03-18 00:15:47		Option changed: buffers.color.current_bg = red
+2015-03-18 00:15:50		Option changed: buffers.color.current_bg = default  (default: red)
+2015-03-18 00:17:43		Options saved to irc.conf
+2015-03-18 00:17:47	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-18 00:17:52	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-18 00:17:57	=!=	irc: already connected to server "twitch"!
+2015-03-18 00:18:04	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-18 00:18:06	=!=	Error: WeeChat main buffer can't be closed
+2015-03-18 00:18:08	=!=	Error: WeeChat main buffer can't be closed
+2015-03-18 00:18:10		python: scripts unloaded
+2015-03-18 00:18:10		perl: scripts unloaded
+2015-03-18 00:18:12		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-18 00:18:12		python scripts loaded: autoconnect
+2015-03-18 00:18:12		script: 279 scripts for WeeChat 1.1.1
+2015-03-18 00:18:12		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-18 00:18:13		Options saved to irc.conf
+2015-03-18 00:18:16		Options saved to irc.conf
+2015-03-18 00:18:18		Options saved to irc.conf
+2015-03-18 00:18:22		Options saved to irc.conf
+2015-03-18 00:28:53		Option changed: weechat.bar.title.position = bottom  (default: top)
+2015-03-18 00:28:59		Option changed: weechat.bar.title.position = left  (default: top)
+2015-03-18 00:29:04		Option changed: weechat.bar.title.position = top
+2015-03-18 00:29:31		Option changed: buffers.color.current_bg = default  (default: red)
+2015-03-18 00:29:36		Option changed: buffers.color.current_fg = white  (default: lightcyan)
+2015-03-18 00:30:14		Option changed: buffers.color.default_fg = magenta  (default: default)
+2015-03-18 00:30:25		Option changed: buffers.color.default_fg = blue  (default: default)
+2015-03-18 00:30:57		Option changed: buffers.color.none_channel_fg = blue  (default: default)
+2015-03-18 00:31:11		Option changed: buffers.color.hotlist_low_fg = blue  (default: white)
+2015-03-18 00:31:16		Option changed: buffers.color.hotlist_message_fg = blue  (default: yellow)
+2015-03-18 00:31:22		Option changed: buffers.color.hotlist_private_fg = blue  (default: lightgreen)
+2015-03-18 00:31:27		Option changed: buffers.color.queries_default_fg = blue  (default: default)
+2015-03-18 00:31:32		Option changed: buffers.color.queries_highlight_fg = blue  (default: default)
+2015-03-18 00:31:36		Option changed: buffers.color.queries_message_fg = blue  (default: default)
+2015-03-18 00:31:40		Option changed: buffers.color.whitelist_default_fg = blue  (default: default)
+2015-03-18 00:31:45		Option changed: buffers.color.whitelist_highlight_fg = blue  (default: default)
+2015-03-18 00:31:49		Option changed: buffers.color.whitelist_low_fg = blue  (default: default)
+2015-03-18 00:31:54		Option changed: buffers.color.whitelist_message_fg = blue  (default: default)
+2015-03-18 00:31:59		Option changed: buffers.color.whitelist_private_fg = blue  (default: default)
+2015-03-18 00:32:08		Option changed: weechat.bar.buffers.color_fg = blue  (default: default)
+2015-03-18 00:32:17		Options saved to irc.conf
+2015-03-18 00:32:47		Options saved to sec.conf
+2015-03-18 00:32:47		Options saved to weechat.conf
+2015-03-18 00:32:47		Options saved to plugins.conf
+2015-03-18 00:32:47		Options saved to alias.conf
+2015-03-18 00:32:47		Options saved to charset.conf
+2015-03-18 00:32:47		Options saved to exec.conf
+2015-03-18 00:32:47		Options saved to irc.conf
+2015-03-18 00:32:47		Options saved to logger.conf
+2015-03-18 00:32:47		Options saved to buffers.conf
+2015-03-18 00:32:47		Options saved to iset.conf
+2015-03-18 00:32:47		Options saved to relay.conf
+2015-03-18 00:32:47		Options saved to script.conf
+2015-03-18 00:32:47		Options saved to trigger.conf
+2015-03-18 00:32:47		Options saved to xfer.conf
+2015-03-18 00:33:31		Option changed: weechat.bar.buffers.separator = off
+2015-03-18 00:33:34		Option changed: weechat.bar.buffers.separator = on  (default: off)
+2015-03-18 00:33:39		Option changed: weechat.look.separator_horizontal = " "  (default: "-")
+2015-03-18 00:33:42		Option changed: weechat.look.separator_horizontal = ""  (default: "-")
+2015-03-18 00:34:20		Options saved to irc.conf
+2015-03-18 01:40:10		Option changed: weechat.bar.input.separator = on  (default: off)
+2015-03-18 01:40:14		Option changed: weechat.bar.input.size = 1
+2015-03-18 01:40:14		Option changed: weechat.bar.input.size = 1
+2015-03-18 01:40:15		Option changed: weechat.bar.input.size = 1
+2015-03-18 01:40:17		Option changed: weechat.bar.input.size = 2  (default: 1)
+2015-03-18 01:40:28		Option changed: weechat.bar.input.size = 1
+2015-03-18 01:54:33		Options saved to irc.conf
+2015-03-18 20:38:25		Options saved to irc.conf
+2015-03-18 20:38:27		Options saved to irc.conf
+2015-03-18 20:38:29		Options saved to irc.conf
+2015-03-18 20:40:27		Options saved to irc.conf
+2015-03-18 20:40:35		Options saved to irc.conf
+2015-03-18 20:40:39		Options saved to irc.conf
+2015-03-18 20:42:53		Options saved to irc.conf
+2015-03-18 21:50:55		Option changed: weechat.bar.buffers.color_bg = blue  (default: default)
+2015-03-18 21:51:00		Option changed: weechat.bar.buffers.color_bg = blue  (default: default)
+2015-03-18 21:51:04		Option changed: weechat.bar.buffers.color_bg = default
+2015-03-18 22:34:35		python: scripts unloaded
+2015-03-18 22:34:35		perl: scripts unloaded
+2015-03-18 22:35:53		python: scripts unloaded
+2015-03-18 22:35:53		perl: scripts unloaded
+2015-03-19 02:41:51		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2015-03-19 02:41:51		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2015-03-19 02:41:51		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2015-03-19 02:41:51		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2015-03-19 02:41:51		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-19 02:41:51		python scripts loaded: autoconnect
+2015-03-19 02:41:51		script: downloading list of scripts...
+2015-03-19 02:41:51		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-19 02:42:00	=!=	Error: unknown command "/buffers" (type /help for help)
+2015-03-19 02:42:06		Option changed: weechat.bar.buffers.position = left
+2015-03-19 02:42:10		Option changed: weechat.bar.buffers.position = top  (default: left)
+2015-03-19 02:42:28		python: scripts unloaded
+2015-03-19 02:42:28		perl: scripts unloaded
+2015-03-19 02:42:31		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-19 02:42:31		python scripts loaded: autoconnect
+2015-03-19 02:42:31		script: downloading list of scripts...
+2015-03-19 02:42:31		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-19 02:43:45		Options saved to irc.conf
+2015-03-19 02:43:45		Options saved to irc.conf
+2015-03-19 02:43:52		Options saved to irc.conf
+2015-03-19 02:43:56		Options saved to irc.conf
+2015-03-19 02:44:01		Options saved to irc.conf
+2015-03-19 02:49:31		Options saved to irc.conf
+2015-03-19 02:49:34		Options saved to irc.conf
+2015-03-19 03:27:19		Options saved to irc.conf
+2015-03-19 03:27:27		Options saved to irc.conf
+2015-03-19 03:27:29		Options saved to irc.conf
+2015-03-19 03:27:31		Options saved to irc.conf
+2015-03-19 08:49:05		Options saved to irc.conf
+2015-03-19 19:38:46		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-19 19:38:46		python scripts loaded: autoconnect
+2015-03-19 19:38:46		script: downloading list of scripts...
+2015-03-19 19:38:46		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-19 19:38:48		script: 279 scripts for WeeChat 1.1.1
+2015-03-19 19:38:50	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-19 19:38:57		Options saved to irc.conf
+2015-03-19 20:15:50		python: scripts unloaded
+2015-03-19 20:15:50		perl: scripts unloaded
+2015-03-19 23:11:44		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-19 23:11:44		python scripts loaded: autoconnect
+2015-03-19 23:11:45		script: 279 scripts for WeeChat 1.1.1
+2015-03-19 23:11:45		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-19 23:11:45		Options saved to irc.conf
+2015-03-19 23:11:50		Options saved to irc.conf
+2015-03-19 23:25:31		python: scripts unloaded
+2015-03-19 23:25:31		perl: scripts unloaded
+2015-03-19 23:27:35		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-19 23:27:35		python scripts loaded: autoconnect
+2015-03-19 23:27:35		script: 279 scripts for WeeChat 1.1.1
+2015-03-19 23:27:35		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-19 23:27:35		Options saved to irc.conf
+2015-03-19 23:27:35		Options saved to irc.conf
+2015-03-20 01:14:28		Options saved to irc.conf
+2015-03-20 02:16:02		python: scripts unloaded
+2015-03-20 02:16:02		perl: scripts unloaded
+2015-03-24 16:42:34		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-24 16:42:34		python scripts loaded: autoconnect
+2015-03-24 16:42:34		script: downloading list of scripts...
+2015-03-24 16:42:34		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-24 16:42:36		script: 289 scripts for WeeChat 1.1.1
+2015-03-24 16:42:45		Options saved to irc.conf
+2015-03-24 16:42:49	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-03-24 16:42:57		python: scripts unloaded
+2015-03-24 16:42:57		perl: scripts unloaded
+2015-03-24 16:42:58		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-24 16:42:58		python scripts loaded: autoconnect
+2015-03-24 16:42:58		script: 289 scripts for WeeChat 1.1.1
+2015-03-24 16:42:58		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-24 16:43:12		Options saved to irc.conf
+2015-03-24 16:43:27		python: scripts unloaded
+2015-03-24 16:43:27		perl: scripts unloaded
+2015-03-24 16:43:29		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-24 16:43:29		python scripts loaded: autoconnect
+2015-03-24 16:43:29		script: 289 scripts for WeeChat 1.1.1
+2015-03-24 16:43:29		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-24 16:44:19		python: scripts unloaded
+2015-03-24 16:44:19		perl: scripts unloaded
+2015-03-24 16:44:20		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-24 16:44:20		python scripts loaded: autoconnect
+2015-03-24 16:44:20		script: 289 scripts for WeeChat 1.1.1
+2015-03-24 16:44:20		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-24 16:44:32		Options saved to irc.conf
+2015-03-24 16:44:44		python: scripts unloaded
+2015-03-24 16:44:44		perl: scripts unloaded
+2015-03-24 16:46:10		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-24 16:46:10		python scripts loaded: autoconnect
+2015-03-24 16:46:10		script: 289 scripts for WeeChat 1.1.1
+2015-03-24 16:46:10		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-24 16:46:20		irc: server twitch has been deleted
+2015-03-24 16:47:49		irc: server twitch created
+2015-03-24 16:48:05		Options saved to irc.conf
+2015-03-24 16:57:21		python: scripts unloaded
+2015-03-24 16:57:21		perl: scripts unloaded
+2015-03-25 02:25:43		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-25 02:25:43		python scripts loaded: autoconnect
+2015-03-25 02:25:43		script: 289 scripts for WeeChat 1.1.1
+2015-03-25 02:25:43		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-25 02:25:44		Options saved to irc.conf
+2015-03-25 02:26:09		Options saved to irc.conf
+2015-03-25 02:40:54		python: scripts unloaded
+2015-03-25 02:40:54		perl: scripts unloaded
+2015-03-25 02:41:31		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-25 02:41:31		python scripts loaded: autoconnect
+2015-03-25 02:41:31		script: 289 scripts for WeeChat 1.1.1
+2015-03-25 02:41:31		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-25 02:41:31		Options saved to irc.conf
+2015-03-25 02:41:31		Options saved to irc.conf
+2015-03-25 03:17:48		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-25 03:17:48		python scripts loaded: autoconnect
+2015-03-25 03:17:48		script: 289 scripts for WeeChat 1.1.1
+2015-03-25 03:17:48		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-25 03:17:49		Options saved to irc.conf
+2015-03-25 03:17:49		Options saved to irc.conf
+2015-03-25 03:17:55		Options saved to irc.conf
+2015-03-25 04:39:24		python: scripts unloaded
+2015-03-25 04:39:24		perl: scripts unloaded
+2015-03-25 13:23:05		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-25 13:23:05		python scripts loaded: autoconnect
+2015-03-25 13:23:05		script: 289 scripts for WeeChat 1.1.1
+2015-03-25 13:23:05		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-25 13:23:06		Options saved to irc.conf
+2015-03-25 13:23:06		Options saved to irc.conf
+2015-03-25 13:23:06		Options saved to irc.conf
+2015-03-25 15:24:49		python: scripts unloaded
+2015-03-25 15:24:49		perl: scripts unloaded
+2015-03-25 15:35:30		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-25 15:35:30		python scripts loaded: autoconnect
+2015-03-25 15:35:30		script: 289 scripts for WeeChat 1.1.1
+2015-03-25 15:35:30		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-25 15:35:30		Options saved to irc.conf
+2015-03-25 15:35:30		Options saved to irc.conf
+2015-03-25 15:35:31		Options saved to irc.conf
+2015-03-25 15:35:36		Options saved to irc.conf
+2015-03-25 15:47:15		Options saved to irc.conf
+2015-03-25 16:16:44		python: scripts unloaded
+2015-03-25 16:16:44		perl: scripts unloaded
+2015-03-26 16:09:46		perl scripts loaded: buffers, colorize_lines, iset
+2015-03-26 16:09:46		python scripts loaded: autoconnect
+2015-03-26 16:09:46		script: downloading list of scripts...
+2015-03-26 16:09:46		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-03-26 16:09:46		Options saved to irc.conf
+2015-03-26 16:09:46		Options saved to irc.conf
+2015-03-26 16:09:46		Options saved to irc.conf
+2015-03-26 16:09:46		Options saved to irc.conf
+2015-03-26 16:09:46		Options saved to irc.conf
+2015-03-26 16:09:47		script: 289 scripts for WeeChat 1.1.1
+2015-03-26 16:09:50		Options saved to irc.conf
+2015-03-26 16:09:52		Options saved to irc.conf
+2015-03-26 16:09:54		Options saved to irc.conf
+2015-03-26 16:09:56		Options saved to irc.conf
+2015-03-26 16:09:58	=!=	Error: unknown command "/hide" (type /help for help)
+2015-03-26 16:09:59	=!=	Error: unknown command "/hide" (type /help for help)
+2015-03-26 16:10:09		Alias "hide" => "buffer hide" created
+2015-03-26 17:11:03		Options saved to irc.conf
+2015-03-26 18:16:30		Option changed: weechat.look.mouse = on  (default: off)
+2015-03-26 19:33:38		python: scripts unloaded
+2015-03-26 19:33:38		perl: scripts unloaded
+2015-04-08 20:31:02		perl scripts loaded: buffers, colorize_lines, iset
+2015-04-08 20:31:02		python scripts loaded: autoconnect
+2015-04-08 20:31:02		script: downloading list of scripts...
+2015-04-08 20:31:02		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-04-08 20:31:02		Options saved to irc.conf
+2015-04-08 20:31:02		Options saved to irc.conf
+2015-04-08 20:31:03		script: 292 scripts for WeeChat 1.1.1
+2015-04-08 20:31:12		Options saved to irc.conf
+2015-04-09 01:40:49		Options saved to irc.conf
+2015-04-09 01:40:59		Options saved to irc.conf
+2015-04-09 01:41:01		Options saved to irc.conf
+2015-04-09 01:41:03		Options saved to irc.conf
+2015-04-09 09:53:21		Options saved to irc.conf
+2015-04-09 09:53:32		Options saved to irc.conf
+2015-04-09 09:53:34		Options saved to irc.conf
+2015-04-09 09:53:36		Options saved to irc.conf
+2015-04-09 12:55:43		Options saved to irc.conf
+2015-04-09 12:55:53		Options saved to irc.conf
+2015-04-09 12:55:55		Options saved to irc.conf
+2015-04-09 12:55:57		Options saved to irc.conf
+2015-04-09 16:56:14		Options saved to irc.conf
+2015-04-09 16:56:24		Options saved to irc.conf
+2015-04-09 16:56:26		Options saved to irc.conf
+2015-04-09 16:56:28		Options saved to irc.conf
+2015-04-09 17:01:13		python: scripts unloaded
+2015-04-09 17:01:13		perl: scripts unloaded
+2015-04-09 17:31:13		perl scripts loaded: buffers, colorize_lines, iset
+2015-04-09 17:31:13		python scripts loaded: autoconnect
+2015-04-09 17:31:13		script: 292 scripts for WeeChat 1.1.1
+2015-04-09 17:31:13		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-04-09 17:31:14		Options saved to irc.conf
+2015-04-09 17:31:14		Options saved to irc.conf
+2015-04-09 17:31:14		Options saved to irc.conf
+2015-04-09 17:31:16		Options saved to irc.conf
+2015-04-09 17:31:19		Options saved to irc.conf
+2015-04-09 17:31:21		Options saved to irc.conf
+2015-04-09 17:31:22		Options saved to irc.conf
+2015-04-09 17:53:12		Options saved to irc.conf
+2015-04-09 17:53:14		Options saved to irc.conf
+2015-04-10 00:05:30		Options saved to irc.conf
+2015-04-10 00:05:40		Options saved to irc.conf
+2015-04-10 13:05:52		Options saved to irc.conf
+2015-04-10 13:06:02		Options saved to irc.conf
+2015-04-22 23:44:15		perl scripts loaded: buffers, colorize_lines, iset
+2015-04-22 23:44:15		python scripts loaded: autoconnect
+2015-04-22 23:44:15		script: 292 scripts for WeeChat 1.1.1
+2015-04-22 23:44:15		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-04-22 23:44:16		Options saved to irc.conf
+2015-04-22 23:44:20		Options saved to irc.conf
+2015-04-22 23:44:25	=!=	Error: unknown command "/quitc" (type /help for help)
+2015-04-22 23:44:26		python: scripts unloaded
+2015-04-22 23:44:26		perl: scripts unloaded
+2015-04-22 23:42:28		perl scripts loaded: buffers, colorize_lines, iset
+2015-04-22 23:42:28		python scripts loaded: autoconnect
+2015-04-22 23:42:28		script: downloading list of scripts...
+2015-04-22 23:42:28		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-04-22 23:42:29		Options saved to irc.conf
+2015-04-22 23:42:29		script: 292 scripts for WeeChat 1.1.1
+2015-04-22 23:42:32		Options saved to irc.conf
+2015-04-22 23:43:54		Options saved to irc.conf
+2015-04-22 23:44:32		perl scripts loaded: buffers, colorize_lines, iset
+2015-04-22 23:44:32		python scripts loaded: autoconnect
+2015-04-22 23:44:32		script: 292 scripts for WeeChat 1.1.1
+2015-04-22 23:44:32		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-04-22 23:44:33		Options saved to irc.conf
+2015-04-22 23:44:33		Options saved to irc.conf
+2015-04-23 01:17:25		Options saved to irc.conf
+2015-04-23 01:17:35		Options saved to irc.conf
+2015-04-23 01:24:32		Options saved to irc.conf
+2015-04-23 01:24:43		Options saved to irc.conf
+2015-04-23 01:24:44		Options saved to irc.conf
+2015-04-23 02:14:39		python: scripts unloaded
+2015-04-23 02:14:39		perl: scripts unloaded
+2015-04-23 03:30:34		Options saved to irc.conf
+2015-04-23 03:30:45		Options saved to irc.conf
+2015-04-23 20:31:58		Options saved to irc.conf
+2015-04-23 20:32:08		Options saved to irc.conf
+2015-04-23 21:17:27		Options saved to irc.conf
+2015-04-23 21:17:37		Options saved to irc.conf
+2015-04-30 18:53:34		perl scripts loaded: buffers, colorize_lines, iset
+2015-04-30 18:53:34		python scripts loaded: autoconnect
+2015-04-30 18:53:34		script: downloading list of scripts...
+2015-04-30 18:53:34		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-04-30 18:53:35		Options saved to irc.conf
+2015-04-30 18:53:35		script: 292 scripts for WeeChat 1.1.1
+2015-04-30 18:53:40		Options saved to irc.conf
+2015-04-30 21:56:01		Options saved to irc.conf
+2015-04-30 21:56:12		Options saved to irc.conf
+2015-04-30 21:56:13		Options saved to irc.conf
+2015-04-30 22:12:44		Options saved to irc.conf
+2015-04-30 22:12:55		Options saved to irc.conf
+2015-04-30 22:12:56		Options saved to irc.conf
+2015-04-30 23:29:23		Options saved to irc.conf
+2015-05-01 08:55:17		Options saved to irc.conf
+2015-05-01 08:55:28		Options saved to irc.conf
+2015-05-01 08:55:30		Options saved to irc.conf
+2015-05-01 08:55:32		Options saved to irc.conf
+2015-05-01 14:10:51		Options saved to irc.conf
+2015-05-01 14:11:02		Options saved to irc.conf
+2015-05-01 14:11:04		Options saved to irc.conf
+2015-05-01 14:11:06		Options saved to irc.conf
+2015-05-01 15:51:33		Options saved to irc.conf
+2015-05-01 15:51:35		Options saved to irc.conf
+2015-05-01 15:51:37		Options saved to irc.conf
+2015-05-01 15:51:39		Options saved to irc.conf
+2015-05-07 01:52:25		perl scripts loaded: buffers, colorize_lines, iset
+2015-05-07 01:52:25		python scripts loaded: autoconnect
+2015-05-07 01:52:25		script: downloading list of scripts...
+2015-05-07 01:52:25		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-05-07 01:52:26		Options saved to irc.conf
+2015-05-07 01:52:27		script: 292 scripts for WeeChat 1.1.1
+2015-05-07 01:52:30		Options saved to irc.conf
+2015-05-07 18:38:21		python: scripts unloaded
+2015-05-07 18:38:21		perl: scripts unloaded
+2015-05-14 17:50:55		perl scripts loaded: buffers, colorize_lines, iset
+2015-05-14 17:50:55		python scripts loaded: autoconnect
+2015-05-14 17:50:55		script: downloading list of scripts...
+2015-05-14 17:50:55		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-05-14 17:50:55		Options saved to irc.conf
+2015-05-14 17:50:55		Options saved to irc.conf
+2015-05-14 17:50:56		script: 292 scripts for WeeChat 1.1.1
+2015-05-14 17:51:31		python: scripts unloaded
+2015-05-14 17:51:31		perl: scripts unloaded
+2015-05-14 17:52:24		perl scripts loaded: buffers, colorize_lines, iset
+2015-05-14 17:52:24		python scripts loaded: autoconnect
+2015-05-14 17:52:24		script: 292 scripts for WeeChat 1.1.1
+2015-05-14 17:52:24		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-05-14 17:52:25		Options saved to irc.conf
+2015-05-14 17:52:25		Options saved to irc.conf
+2015-05-15 12:28:02		python: scripts unloaded
+2015-05-15 12:28:02		perl: scripts unloaded
+2015-06-04 01:15:36		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-04 01:15:37		python scripts loaded: autoconnect
+2015-06-04 01:15:37		script: downloading list of scripts...
+2015-06-04 01:15:37		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-04 01:15:38		script: 292 scripts for WeeChat 1.1.1
+2015-06-04 01:15:38		Options saved to irc.conf
+2015-06-04 01:15:38		Options saved to irc.conf
+2015-06-04 01:15:40		Options saved to irc.conf
+2015-06-04 01:15:43		Options saved to irc.conf
+2015-06-04 01:15:46		Options saved to irc.conf
+2015-06-04 01:16:28		python: scripts unloaded
+2015-06-04 01:16:28		perl: scripts unloaded
+2015-06-04 01:16:48		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-04 01:16:48		python scripts loaded: autoconnect
+2015-06-04 01:16:48		script: 292 scripts for WeeChat 1.1.1
+2015-06-04 01:16:48		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-04 01:16:48		Options saved to irc.conf
+2015-06-04 01:16:48		Options saved to irc.conf
+2015-06-04 03:03:27		Options saved to irc.conf
+2015-06-04 17:40:41		Options saved to irc.conf
+2015-06-04 17:40:51		Options saved to irc.conf
+2015-06-04 17:40:53		Options saved to irc.conf
+2015-06-04 17:40:55		Options saved to irc.conf
+2015-06-04 17:47:07		Options saved to irc.conf
+2015-06-04 17:47:17		Options saved to irc.conf
+2015-06-04 17:47:19		Options saved to irc.conf
+2015-06-04 17:47:21		Options saved to irc.conf
+2015-06-05 16:40:37		python: scripts unloaded
+2015-06-05 16:40:37		perl: scripts unloaded
+2015-06-13 18:12:15		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-13 18:12:15		python scripts loaded: autoconnect
+2015-06-13 18:12:15		script: downloading list of scripts...
+2015-06-13 18:12:15		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-13 18:12:15		Options saved to irc.conf
+2015-06-13 18:12:15		Options saved to irc.conf
+2015-06-13 18:12:15		Options saved to irc.conf
+2015-06-13 18:12:16		script: 292 scripts for WeeChat 1.1.1
+2015-06-13 18:12:17		python: scripts unloaded
+2015-06-13 18:12:17		perl: scripts unloaded
+2015-06-13 18:14:52		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-13 18:14:52		python scripts loaded: autoconnect
+2015-06-13 18:14:53		script: 292 scripts for WeeChat 1.1.1
+2015-06-13 18:14:53		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-13 18:14:53		Options saved to irc.conf
+2015-06-13 18:14:53		Options saved to irc.conf
+2015-06-13 18:14:53		Options saved to irc.conf
+2015-06-13 18:14:57		Options saved to irc.conf
+2015-06-13 20:25:21		python: scripts unloaded
+2015-06-13 20:25:21		perl: scripts unloaded
+2015-06-14 21:37:32		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-14 21:37:32		python scripts loaded: autoconnect
+2015-06-14 21:37:32		script: downloading list of scripts...
+2015-06-14 21:37:32		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-14 21:37:33		Options saved to irc.conf
+2015-06-14 21:37:33		Options saved to irc.conf
+2015-06-14 21:37:33		Options saved to irc.conf
+2015-06-14 21:37:33		Options saved to irc.conf
+2015-06-14 21:37:33		script: 299 scripts for WeeChat 1.1.1
+2015-06-14 21:38:11		Options saved to irc.conf
+2015-06-14 21:38:13		Options saved to irc.conf
+2015-06-14 21:38:15		Options saved to irc.conf
+2015-06-14 21:38:17		Options saved to irc.conf
+2015-06-14 21:38:19		Options saved to irc.conf
+2015-06-15 02:43:26		Options saved to irc.conf
+2015-06-15 03:43:33		Options saved to irc.conf
+2015-06-15 04:10:44		Options saved to irc.conf
+2015-06-15 13:23:45		Options saved to irc.conf
+2015-06-15 13:23:46		Options saved to irc.conf
+2015-06-15 13:23:48		Options saved to irc.conf
+2015-06-15 23:08:05		Options saved to irc.conf
+2015-06-15 23:08:16		Options saved to irc.conf
+2015-06-15 23:08:17		Options saved to irc.conf
+2015-06-15 23:08:19		Options saved to irc.conf
+2015-06-16 03:12:17		Options saved to irc.conf
+2015-06-16 03:12:28		Options saved to irc.conf
+2015-06-16 03:12:29		Options saved to irc.conf
+2015-06-16 03:12:31		Options saved to irc.conf
+2015-06-16 05:55:36		Options saved to irc.conf
+2015-06-16 05:55:46		Options saved to irc.conf
+2015-06-16 05:55:48		Options saved to irc.conf
+2015-06-16 05:55:50		Options saved to irc.conf
+2015-06-17 13:51:43		Options saved to irc.conf
+2015-06-17 13:52:05		Options saved to irc.conf
+2015-06-17 13:52:07		Options saved to irc.conf
+2015-06-17 13:52:09		Options saved to irc.conf
+2015-06-17 14:21:51		python: scripts unloaded
+2015-06-17 14:21:51		perl: scripts unloaded
+2015-06-20 22:09:27		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-20 22:09:27		python scripts loaded: autoconnect
+2015-06-20 22:09:27		script: downloading list of scripts...
+2015-06-20 22:09:27		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-20 22:09:27		Options saved to irc.conf
+2015-06-20 22:09:27		Options saved to irc.conf
+2015-06-20 22:09:27		Options saved to irc.conf
+2015-06-20 22:09:28		script: 299 scripts for WeeChat 1.1.1
+2015-06-20 22:09:34		Options saved to irc.conf
+2015-06-21 00:22:56		Options saved to irc.conf
+2015-06-21 15:17:56		Options saved to irc.conf
+2015-06-21 15:18:07		Options saved to irc.conf
+2015-06-21 15:18:09		Options saved to irc.conf
+2015-06-21 15:18:11		Options saved to irc.conf
+2015-06-21 15:18:13		Options saved to irc.conf
+2015-06-21 15:18:15		Options saved to irc.conf
+2015-06-21 21:48:52		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-21 21:48:52		python scripts loaded: autoconnect
+2015-06-21 21:48:52		script: 299 scripts for WeeChat 1.1.1
+2015-06-21 21:48:52		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-21 21:48:52		Options saved to irc.conf
+2015-06-21 21:48:53		Options saved to irc.conf
+2015-06-21 21:48:53		Options saved to irc.conf
+2015-06-21 21:48:53		Options saved to irc.conf
+2015-06-21 21:48:53		Options saved to irc.conf
+2015-06-22 00:48:18		Options saved to irc.conf
+2015-06-22 01:21:19		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-22 01:21:19		python scripts loaded: autoconnect
+2015-06-22 01:21:19		script: downloading list of scripts...
+2015-06-22 01:21:19		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-22 01:21:19		Options saved to irc.conf
+2015-06-22 01:21:19		Options saved to irc.conf
+2015-06-22 01:21:19		Options saved to irc.conf
+2015-06-22 01:21:19		Options saved to irc.conf
+2015-06-22 01:21:19		Options saved to irc.conf
+2015-06-22 01:21:20		script: 299 scripts for WeeChat 1.1.1
+2015-06-22 01:38:37		python: scripts unloaded
+2015-06-22 01:38:37		perl: scripts unloaded
+2015-06-22 01:38:54		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-22 01:38:54		python scripts loaded: autoconnect
+2015-06-22 01:38:54		script: 299 scripts for WeeChat 1.1.1
+2015-06-22 01:38:54		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-22 01:38:54		Options saved to irc.conf
+2015-06-22 01:38:54		Options saved to irc.conf
+2015-06-22 01:38:54		Options saved to irc.conf
+2015-06-22 01:38:54		Options saved to irc.conf
+2015-06-22 01:38:54		Options saved to irc.conf
+2015-06-22 06:16:06		Options saved to irc.conf
+2015-06-22 06:16:16		Options saved to irc.conf
+2015-06-22 06:16:18		Options saved to irc.conf
+2015-06-22 06:16:20		Options saved to irc.conf
+2015-06-22 06:16:22		Options saved to irc.conf
+2015-06-22 06:16:24		Options saved to irc.conf
+2015-06-22 06:15:53		Options saved to irc.conf
+2015-06-22 06:16:03		Options saved to irc.conf
+2015-06-22 06:16:05		Options saved to irc.conf
+2015-06-22 06:16:07		Options saved to irc.conf
+2015-06-22 06:16:09		Options saved to irc.conf
+2015-06-22 06:16:11		Options saved to irc.conf
+2015-06-22 10:21:48		Options saved to irc.conf
+2015-06-22 13:52:07		Options saved to irc.conf
+2015-06-22 13:52:09		Options saved to irc.conf
+2015-06-22 13:52:11		Options saved to irc.conf
+2015-06-22 13:52:13		Options saved to irc.conf
+2015-06-22 13:52:15		Options saved to irc.conf
+2015-06-22 13:59:59		Options saved to irc.conf
+2015-06-22 14:00:09		Options saved to irc.conf
+2015-06-22 14:00:11		Options saved to irc.conf
+2015-06-22 14:00:13		Options saved to irc.conf
+2015-06-22 14:00:15		Options saved to irc.conf
+2015-06-22 14:00:17		Options saved to irc.conf
+2015-06-22 19:20:13		Options saved to irc.conf
+2015-06-22 19:20:26		Options saved to irc.conf
+2015-06-22 19:20:28		Options saved to irc.conf
+2015-06-22 19:20:30		Options saved to irc.conf
+2015-06-22 19:20:32		Options saved to irc.conf
+2015-06-22 19:20:34		Options saved to irc.conf
+2015-06-25 00:29:09		Options saved to irc.conf
+2015-06-25 00:29:19		Options saved to irc.conf
+2015-06-25 00:29:21		Options saved to irc.conf
+2015-06-25 00:29:23		Options saved to irc.conf
+2015-06-25 00:29:25		Options saved to irc.conf
+2015-06-22 19:20:15		Options saved to irc.conf
+2015-06-22 19:20:25		Options saved to irc.conf
+2015-06-22 19:20:27		Options saved to irc.conf
+2015-06-22 19:20:29		Options saved to irc.conf
+2015-06-22 19:20:31		Options saved to irc.conf
+2015-06-22 19:20:33		Options saved to irc.conf
+2015-06-25 00:28:31		Options saved to irc.conf
+2015-06-25 00:28:41		Options saved to irc.conf
+2015-06-25 00:28:43		Options saved to irc.conf
+2015-06-25 00:28:45		Options saved to irc.conf
+2015-06-25 00:28:47		Options saved to irc.conf
+2015-06-25 00:28:49		Options saved to irc.conf
+2015-06-25 00:29:27		Options saved to irc.conf
+2015-06-25 18:29:51		Options saved to irc.conf
+2015-06-25 18:30:02		Options saved to irc.conf
+2015-06-25 18:30:04		Options saved to irc.conf
+2015-06-25 18:30:06		Options saved to irc.conf
+2015-06-25 18:30:08		Options saved to irc.conf
+2015-06-25 18:30:10		Options saved to irc.conf
+2015-06-25 18:29:54		Options saved to irc.conf
+2015-06-25 18:30:05		Options saved to irc.conf
+2015-06-25 18:30:07		Options saved to irc.conf
+2015-06-25 18:30:09		Options saved to irc.conf
+2015-06-25 18:30:11		Options saved to irc.conf
+2015-06-25 18:30:13		Options saved to irc.conf
+2015-06-25 18:31:26		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-25 18:31:26		python scripts loaded: autoconnect
+2015-06-25 18:31:26		script: downloading list of scripts...
+2015-06-25 18:31:26		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-25 18:31:26		Options saved to irc.conf
+2015-06-25 18:31:27		Options saved to irc.conf
+2015-06-25 18:31:27		Options saved to irc.conf
+2015-06-25 18:31:27		Options saved to irc.conf
+2015-06-25 18:31:27		Options saved to irc.conf
+2015-06-25 18:31:27		script: 299 scripts for WeeChat 1.1.1
+2015-06-25 20:22:12		Options saved to irc.conf
+2015-06-25 20:22:22		Options saved to irc.conf
+2015-06-25 20:22:24		Options saved to irc.conf
+2015-06-25 20:22:26		Options saved to irc.conf
+2015-06-25 20:22:28		Options saved to irc.conf
+2015-06-25 20:22:30		Options saved to irc.conf
+2015-06-25 20:55:01		Options saved to irc.conf
+2015-06-25 20:55:12		Options saved to irc.conf
+2015-06-25 20:55:14		Options saved to irc.conf
+2015-06-25 20:55:16		Options saved to irc.conf
+2015-06-25 20:55:18		Options saved to irc.conf
+2015-06-25 20:55:20		Options saved to irc.conf
+2015-06-25 21:02:20		Options saved to irc.conf
+2015-06-25 21:02:31		Options saved to irc.conf
+2015-06-25 21:02:33		Options saved to irc.conf
+2015-06-25 21:02:35		Options saved to irc.conf
+2015-06-25 21:02:37		Options saved to irc.conf
+2015-06-25 21:02:39		Options saved to irc.conf
+2015-06-25 21:08:27		Options saved to irc.conf
+2015-06-25 21:08:37		Options saved to irc.conf
+2015-06-25 21:08:39		Options saved to irc.conf
+2015-06-25 21:08:41		Options saved to irc.conf
+2015-06-25 21:08:43		Options saved to irc.conf
+2015-06-25 21:08:45		Options saved to irc.conf
+2015-06-25 21:19:36		Options saved to irc.conf
+2015-06-25 21:19:47		Options saved to irc.conf
+2015-06-25 21:19:49		Options saved to irc.conf
+2015-06-25 21:19:51		Options saved to irc.conf
+2015-06-25 21:19:53		Options saved to irc.conf
+2015-06-25 21:19:55		Options saved to irc.conf
+2015-06-25 22:53:05		Options saved to irc.conf
+2015-06-25 22:53:15		Options saved to irc.conf
+2015-06-25 22:53:17		Options saved to irc.conf
+2015-06-25 22:53:19		Options saved to irc.conf
+2015-06-25 22:53:21		Options saved to irc.conf
+2015-06-25 22:53:23		Options saved to irc.conf
+2015-06-25 22:53:56		Options saved to irc.conf
+2015-06-25 22:54:06		Options saved to irc.conf
+2015-06-25 22:54:08		Options saved to irc.conf
+2015-06-25 22:54:10		Options saved to irc.conf
+2015-06-25 22:54:12		Options saved to irc.conf
+2015-06-25 22:54:14		Options saved to irc.conf
+2015-06-25 22:54:50		Options saved to irc.conf
+2015-06-25 22:55:00		Options saved to irc.conf
+2015-06-25 22:55:02		Options saved to irc.conf
+2015-06-25 22:55:04		Options saved to irc.conf
+2015-06-25 22:55:06		Options saved to irc.conf
+2015-06-25 22:55:08		Options saved to irc.conf
+2015-06-25 23:17:55		Options saved to irc.conf
+2015-06-25 23:18:05		Options saved to irc.conf
+2015-06-25 23:18:07		Options saved to irc.conf
+2015-06-25 23:18:09		Options saved to irc.conf
+2015-06-25 23:18:11		Options saved to irc.conf
+2015-06-25 23:18:13		Options saved to irc.conf
+2015-06-25 23:29:35		Options saved to irc.conf
+2015-06-25 23:29:45		Options saved to irc.conf
+2015-06-25 23:29:47		Options saved to irc.conf
+2015-06-25 23:29:49		Options saved to irc.conf
+2015-06-25 23:29:51		Options saved to irc.conf
+2015-06-25 23:29:53		Options saved to irc.conf
+2015-06-26 03:30:20		python: scripts unloaded
+2015-06-26 03:30:20		perl: scripts unloaded
+2015-06-26 15:59:24		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-26 15:59:24		python scripts loaded: autoconnect
+2015-06-26 15:59:24		script: 299 scripts for WeeChat 1.1.1
+2015-06-26 15:59:24		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-26 15:59:25		Options saved to irc.conf
+2015-06-26 15:59:25		Options saved to irc.conf
+2015-06-26 15:59:25		Options saved to irc.conf
+2015-06-26 15:59:25		Options saved to irc.conf
+2015-06-26 15:59:25		Options saved to irc.conf
+2015-06-26 15:59:31		Options saved to irc.conf
+2015-06-26 15:59:39		Options saved to irc.conf
+2015-06-26 15:59:45		Options saved to irc.conf
+2015-06-26 16:00:06		Options saved to irc.conf
+2015-06-26 16:00:08		Options saved to irc.conf
+2015-06-26 17:11:03		python: scripts unloaded
+2015-06-26 17:11:03		perl: scripts unloaded
+2015-06-26 17:12:00		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-26 17:12:00		python scripts loaded: autoconnect
+2015-06-26 17:12:00		script: 299 scripts for WeeChat 1.1.1
+2015-06-26 17:12:00		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-26 17:12:01		Options saved to irc.conf
+2015-06-26 17:12:01		Options saved to irc.conf
+2015-06-26 17:12:01		Options saved to irc.conf
+2015-06-26 17:12:01		Options saved to irc.conf
+2015-06-26 17:12:01		Options saved to irc.conf
+2015-06-26 17:12:01		Options saved to irc.conf
+2015-06-26 17:12:54		Options saved to irc.conf
+2015-06-26 17:12:56		Options saved to irc.conf
+2015-06-27 04:40:15		Options saved to irc.conf
+2015-06-27 04:40:25		Options saved to irc.conf
+2015-06-27 04:40:27		Options saved to irc.conf
+2015-06-27 04:40:29		Options saved to irc.conf
+2015-06-27 04:40:31		Options saved to irc.conf
+2015-06-27 04:40:33		Options saved to irc.conf
+2015-06-27 04:39:05		Options saved to irc.conf
+2015-06-27 04:39:15		Options saved to irc.conf
+2015-06-27 04:39:17		Options saved to irc.conf
+2015-06-27 04:39:19		Options saved to irc.conf
+2015-06-27 04:39:21		Options saved to irc.conf
+2015-06-27 04:39:23		Options saved to irc.conf
+2015-06-27 00:29:35		Options saved to irc.conf
+2015-06-27 00:29:45		Options saved to irc.conf
+2015-06-27 00:29:47		Options saved to irc.conf
+2015-06-27 00:29:49		Options saved to irc.conf
+2015-06-27 00:29:51		Options saved to irc.conf
+2015-06-27 00:29:53		Options saved to irc.conf
+2015-06-27 00:29:55		Options saved to irc.conf
+2015-06-27 04:39:49		Options saved to irc.conf
+2015-06-27 04:39:59		Options saved to irc.conf
+2015-06-27 04:40:01		Options saved to irc.conf
+2015-06-27 04:40:03		Options saved to irc.conf
+2015-06-27 04:40:05		Options saved to irc.conf
+2015-06-27 04:40:07		Options saved to irc.conf
+2015-06-27 04:40:09		Options saved to irc.conf
+2015-06-27 06:47:30		Options saved to irc.conf
+2015-06-27 06:47:40		Options saved to irc.conf
+2015-06-27 06:47:42	=!=	Error: failed to save options to irc.conf
+2015-06-27 06:47:44		Options saved to irc.conf
+2015-06-27 06:47:46		Options saved to irc.conf
+2015-06-27 06:47:48		Options saved to irc.conf
+2015-06-27 11:02:07		Options saved to irc.conf
+2015-06-27 11:02:18		Options saved to irc.conf
+2015-06-27 11:02:21		Options saved to irc.conf
+2015-06-27 11:02:23		Options saved to irc.conf
+2015-06-27 11:02:25		Options saved to irc.conf
+2015-06-27 11:02:27		Options saved to irc.conf
+2015-06-27 13:47:59		Options saved to irc.conf
+2015-06-27 06:47:24		Options saved to irc.conf
+2015-06-27 06:47:34		Options saved to irc.conf
+2015-06-27 06:47:36		Options saved to irc.conf
+2015-06-27 06:47:38		Options saved to irc.conf
+2015-06-27 06:47:40		Options saved to irc.conf
+2015-06-27 06:47:42		Options saved to irc.conf
+2015-06-27 06:47:44		Options saved to irc.conf
+2015-06-27 09:48:44		Options saved to irc.conf
+2015-06-27 11:02:00		Options saved to irc.conf
+2015-06-27 11:02:02		Options saved to irc.conf
+2015-06-27 11:02:04		Options saved to irc.conf
+2015-06-27 11:02:06		Options saved to irc.conf
+2015-06-27 11:02:08		Options saved to irc.conf
+2015-06-27 11:02:10		Options saved to irc.conf
+2015-06-27 06:47:46		Options saved to irc.conf
+2015-06-27 06:47:56		Options saved to irc.conf
+2015-06-27 06:47:58		Options saved to irc.conf
+2015-06-27 13:46:14		Options saved to irc.conf
+2015-06-27 13:46:24		Options saved to irc.conf
+2015-06-27 13:46:26		Options saved to irc.conf
+2015-06-27 13:46:28		Options saved to irc.conf
+2015-06-27 13:46:30		Options saved to irc.conf
+2015-06-27 13:46:32		Options saved to irc.conf
+2015-06-27 13:48:31		Options saved to irc.conf
+2015-06-27 13:48:41		Options saved to irc.conf
+2015-06-27 13:48:43		Options saved to irc.conf
+2015-06-27 13:48:45		Options saved to irc.conf
+2015-06-27 13:48:47		Options saved to irc.conf
+2015-06-27 13:48:49		Options saved to irc.conf
+2015-06-27 13:48:51		Options saved to irc.conf
+2015-06-27 13:49:58		python: scripts unloaded
+2015-06-27 13:49:58		perl: scripts unloaded
+2015-06-27 13:49:58		python: scripts unloaded
+2015-06-27 13:49:58		perl: scripts unloaded
+2015-06-27 13:48:09		Options saved to irc.conf
+2015-06-27 13:48:11		Options saved to irc.conf
+2015-06-27 13:48:13		Options saved to irc.conf
+2015-06-27 13:48:15		Options saved to irc.conf
+2015-06-27 13:48:17		Options saved to irc.conf
+2015-06-27 13:49:58		python: scripts unloaded
+2015-06-27 13:49:58		perl: scripts unloaded
+2015-06-27 13:55:02		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-27 13:55:02		python scripts loaded: autoconnect
+2015-06-27 13:55:02		script: downloading list of scripts...
+2015-06-27 13:55:02		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-27 13:55:02		Upgrade done (0.08s)
+2015-06-27 13:55:03		script: 299 scripts for WeeChat 1.1.1
+2015-06-27 13:55:06	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-06-27 13:55:30		python: scripts unloaded
+2015-06-27 13:55:30		perl: scripts unloaded
+2015-06-27 13:55:31		perl scripts loaded: buffers, colorize_lines, iset
+2015-06-27 13:55:31		python scripts loaded: autoconnect
+2015-06-27 13:55:31		script: 299 scripts for WeeChat 1.1.1
+2015-06-27 13:55:31		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-06-27 13:55:31		Upgrade done (0.10s)
+2015-06-27 13:55:37		Options saved to irc.conf
+2015-06-27 13:55:37		Options saved to irc.conf
+2015-06-27 13:55:37		Options saved to irc.conf
+2015-06-27 13:55:37		Options saved to irc.conf
+2015-06-27 13:55:37		Options saved to irc.conf
+2015-06-27 13:55:41		Options saved to irc.conf
+2015-06-27 16:49:29		Options saved to sec.conf
+2015-06-27 16:49:29		Options saved to weechat.conf
+2015-06-27 16:49:29		Options saved to plugins.conf
+2015-06-27 16:49:29		Options saved to alias.conf
+2015-06-27 16:49:29		Options saved to charset.conf
+2015-06-27 16:49:29		Options saved to exec.conf
+2015-06-27 16:49:29		Options saved to irc.conf
+2015-06-27 16:49:29		Options saved to logger.conf
+2015-06-27 16:49:29		Options saved to buffers.conf
+2015-06-27 16:49:29		Options saved to iset.conf
+2015-06-27 16:49:29		Options saved to relay.conf
+2015-06-27 16:49:29		Options saved to script.conf
+2015-06-27 16:49:29		Options saved to trigger.conf
+2015-06-27 16:49:29		Options saved to xfer.conf
+2015-06-27 16:49:38		script: script "autoconnect.py" is already installed and up-to-date
+2015-06-27 16:50:07		Options saved to irc.conf
+2015-06-27 16:50:16		Options saved to irc.conf
+2015-06-28 22:52:45		Options saved to irc.conf
+2015-07-03 20:39:28		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-03 20:39:28		python scripts loaded: autoconnect
+2015-07-03 20:39:28		script: downloading list of scripts...
+2015-07-03 20:39:28		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-03 20:39:28		Upgrade done (0.09s)
+2015-07-03 20:39:29		script: 299 scripts for WeeChat 1.1.1
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:39:32		Options saved to irc.conf
+2015-07-03 20:40:12		python: scripts unloaded
+2015-07-03 20:40:12		perl: scripts unloaded
+2015-07-03 20:40:18		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-03 20:40:18		python scripts loaded: autoconnect
+2015-07-03 20:40:18		script: 299 scripts for WeeChat 1.1.1
+2015-07-03 20:40:18		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-03 20:40:18		Upgrade done (0.10s)
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:21		Options saved to irc.conf
+2015-07-03 20:40:35		Options saved to irc.conf
+2015-07-03 20:41:05		Option changed: weechat.bar.buffers.filling_left_right = horizontal  (default: vertical)
+2015-07-03 20:41:20		Option changed: weechat.bar.buffers.filling_left_right = vertical
+2015-07-03 20:42:42		Option changed: weechat.bar.buffers.filling_top_bottom = columns_horizontal  (default: columns_vertical)
+2015-07-03 20:42:53		Options saved to irc.conf
+2015-07-04 07:47:25		Options saved to irc.conf
+2015-07-04 11:16:20		Options saved to irc.conf
+2015-07-04 11:16:22		Options saved to irc.conf
+2015-07-04 11:16:24		Options saved to irc.conf
+2015-07-04 11:16:26		Options saved to irc.conf
+2015-07-04 11:16:28		Options saved to irc.conf
+2015-07-04 11:16:30		Options saved to irc.conf
+2015-07-04 11:16:32		Options saved to irc.conf
+2015-07-04 16:57:02		Options saved to irc.conf
+2015-07-04 16:57:12		Options saved to irc.conf
+2015-07-04 16:57:14		Options saved to irc.conf
+2015-07-04 16:57:16		Options saved to irc.conf
+2015-07-04 16:57:18		Options saved to irc.conf
+2015-07-04 16:57:20		Options saved to irc.conf
+2015-07-04 16:57:22		Options saved to irc.conf
+2015-07-04 16:57:25		Options saved to irc.conf
+2015-07-05 19:30:18		Options saved to irc.conf
+2015-07-05 19:30:28		Options saved to irc.conf
+2015-07-05 19:30:30		Options saved to irc.conf
+2015-07-05 19:30:32		Options saved to irc.conf
+2015-07-05 19:30:34		Options saved to irc.conf
+2015-07-05 19:30:36		Options saved to irc.conf
+2015-07-05 19:30:38		Options saved to irc.conf
+2015-07-05 19:30:40		Options saved to irc.conf
+2015-07-06 06:50:29		Options saved to irc.conf
+2015-07-06 06:50:40		Options saved to irc.conf
+2015-07-06 06:50:42		Options saved to irc.conf
+2015-07-06 06:50:44		Options saved to irc.conf
+2015-07-06 06:50:46		Options saved to irc.conf
+2015-07-06 06:50:48		Options saved to irc.conf
+2015-07-06 06:50:50		Options saved to irc.conf
+2015-07-06 06:50:52		Options saved to irc.conf
+2015-07-06 11:16:51		Options saved to irc.conf
+2015-07-06 14:51:32		Options saved to irc.conf
+2015-07-06 14:51:34		Options saved to irc.conf
+2015-07-06 14:51:36		Options saved to irc.conf
+2015-07-06 14:51:38		Options saved to irc.conf
+2015-07-06 14:51:40		Options saved to irc.conf
+2015-07-06 14:51:42		Options saved to irc.conf
+2015-07-06 14:51:46		Options saved to irc.conf
+2015-07-06 23:30:53		Options saved to irc.conf
+2015-07-06 23:31:04		Options saved to irc.conf
+2015-07-06 23:31:07		Options saved to irc.conf
+2015-07-06 23:31:09		Options saved to irc.conf
+2015-07-06 23:31:11		Options saved to irc.conf
+2015-07-06 23:31:13		Options saved to irc.conf
+2015-07-06 23:31:15		Options saved to irc.conf
+2015-07-06 23:31:17		Options saved to irc.conf
+2015-07-06 23:36:09		Options saved to irc.conf
+2015-07-06 23:36:20		Options saved to irc.conf
+2015-07-06 23:36:23		Options saved to irc.conf
+2015-07-06 23:36:25		Options saved to irc.conf
+2015-07-06 23:36:27		Options saved to irc.conf
+2015-07-06 23:36:29		Options saved to irc.conf
+2015-07-06 23:36:31		Options saved to irc.conf
+2015-07-06 23:36:33		Options saved to irc.conf
+2015-07-08 20:15:10		python: scripts unloaded
+2015-07-08 20:15:10		perl: scripts unloaded
+2015-07-09 20:52:06		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-09 20:52:06		python scripts loaded: autoconnect
+2015-07-09 20:52:06		script: downloading list of scripts...
+2015-07-09 20:52:06		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-09 20:52:06		Upgrade done (0.08s)
+2015-07-09 20:52:08		script: 299 scripts for WeeChat 1.1.1
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:10		Options saved to irc.conf
+2015-07-09 20:52:14		Options saved to irc.conf
+2015-07-09 20:52:20		Options saved to irc.conf
+2015-07-10 04:41:08		python: loading script "/Users/JnNy/.twitch/python/weestreamer.py"
+2015-07-10 04:41:08		python: registered script "weestreamer", version 0.4 (Livestreamer companion for WeeChat)
+2015-07-10 04:41:53		python: scripts unloaded
+2015-07-10 04:41:53		perl: scripts unloaded
+2015-07-10 04:42:29		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-10 04:42:29		python scripts loaded: autoconnect, weestreamer
+2015-07-10 04:42:29		script: 299 scripts for WeeChat 1.1.1
+2015-07-10 04:42:29		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-10 04:42:29		Upgrade done (0.11s)
+2015-07-10 04:42:33		Options saved to irc.conf
+2015-07-10 04:42:34		Options saved to irc.conf
+2015-07-10 04:42:34		Options saved to irc.conf
+2015-07-10 04:42:34		Options saved to irc.conf
+2015-07-10 04:42:34		Options saved to irc.conf
+2015-07-10 04:42:34		Options saved to irc.conf
+2015-07-10 04:42:34		Options saved to irc.conf
+2015-07-10 04:42:39		Options saved to irc.conf
+2015-07-10 04:43:05		Options saved to irc.conf
+2015-07-10 04:43:08		Options saved to irc.conf
+2015-07-10 04:43:10		Options saved to irc.conf
+2015-07-10 04:43:12		Options saved to irc.conf
+2015-07-10 04:43:14		Options saved to irc.conf
+2015-07-10 04:43:16		Options saved to irc.conf
+2015-07-10 04:43:18		Options saved to irc.conf
+2015-07-10 04:43:20		Options saved to irc.conf
+2015-07-10 04:43:42	=!=	Error with command "/script weestreamer" (help on command: /help script)
+2015-07-10 04:43:45	=!=	You can not write text in this buffer
+2015-07-10 04:43:49		Scripts loaded:
+2015-07-10 04:43:49		 * ia N buffers.pl 5.0 (Sidebar with list of buffers)
+2015-07-10 04:43:49		   ia   colorize_lines.pl 3.3 (colors text in chat area with according nick color, including highlights)
+2015-07-10 04:43:49		 * ia N iset.pl 3.6 (Interactive Set for configuration options)
+2015-07-10 04:43:49		   ia   autoconnect.py 0.2.3 (reopens servers and channels opened last time weechat closed)
+2015-07-10 04:43:49		   ia   weestreamer.py 0.4 (Livestreamer companion for WeeChat)
+2015-07-10 04:43:56		[python/weestreamer]  /weestreamer  server channel
+2015-07-10 04:43:56		Livestreamer companion for WeeChat
+2015-07-10 04:43:56		Run /weestreamer without any arguments while in a channel on a supported irc
+2015-07-10 04:43:56		server to launch the stream associated with that channel.
+2015-07-10 04:43:56		You may optionally pass the server and / or channel (in that order) to launch
+2015-07-10 04:43:56		the required stream from any channel, e.g.:
+2015-07-10 04:43:56		    /weestreamer twitch handmade_hero
+2015-07-10 04:43:56		    /weestreamer handmade_hero
+2015-07-10 04:43:56		Currently supported servers:
+2015-07-10 04:43:56		   twitch
+2015-07-10 04:43:56		   ustream
+2015-07-10 04:43:56		Troubleshooting: If you expect that your current server should be supported but
+2015-07-10 04:43:56		weestreamer keeps erroring, please check the name of the server by running:
+2015-07-10 04:43:56		    /buffer localvar
+2015-07-10 04:43:56		If you have named the server such that it doesn't contain the string in
+2015-07-10 04:43:56		"Currently supported servers" (above), weestreamer will not recognise it.
+2015-07-10 04:44:46	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2015-07-10 04:44:57		Options saved to irc.conf
+2015-07-10 16:23:33		Options saved to irc.conf
+2015-07-10 16:23:43		Options saved to irc.conf
+2015-07-10 16:54:59		Options saved to irc.conf
+2015-07-10 16:55:09		Options saved to irc.conf
+2015-07-10 17:17:43		Options saved to irc.conf
+2015-07-10 17:18:00		Options saved to irc.conf
+2015-07-10 17:18:35		Options saved to irc.conf
+2015-07-11 18:23:12		Options saved to irc.conf
+2015-07-11 21:52:01		Options saved to irc.conf
+2015-07-13 11:57:18		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-13 11:57:18		python scripts loaded: autoconnect, weestreamer
+2015-07-13 11:57:18		script: downloading list of scripts...
+2015-07-13 11:57:18		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-13 11:57:18		Upgrade done (0.09s)
+2015-07-13 11:57:19		script: 299 scripts for WeeChat 1.1.1
+2015-07-13 11:57:21		Options saved to irc.conf
+2015-07-13 11:57:21		Options saved to irc.conf
+2015-07-13 11:57:21		Options saved to irc.conf
+2015-07-13 11:57:21		Options saved to irc.conf
+2015-07-13 11:57:21		Options saved to irc.conf
+2015-07-13 11:57:21		Options saved to irc.conf
+2015-07-13 11:57:25		Options saved to irc.conf
+2015-07-13 11:57:29		Options saved to irc.conf
+2015-07-14 02:37:50		Options saved to irc.conf
+2015-07-14 02:38:00		Options saved to irc.conf
+2015-07-14 02:38:02		Options saved to irc.conf
+2015-07-14 02:38:04		Options saved to irc.conf
+2015-07-14 02:38:06		Options saved to irc.conf
+2015-07-14 02:38:08		Options saved to irc.conf
+2015-07-14 02:38:10		Options saved to irc.conf
+2015-07-14 14:01:46		Options saved to irc.conf
+2015-07-14 14:01:56		Options saved to irc.conf
+2015-07-14 14:01:58		Options saved to irc.conf
+2015-07-14 14:02:00		Options saved to irc.conf
+2015-07-14 14:02:02		Options saved to irc.conf
+2015-07-14 14:02:04		Options saved to irc.conf
+2015-07-14 14:02:06		Options saved to irc.conf
+2015-07-14 15:19:35		Options saved to irc.conf
+2015-07-14 15:19:45		Options saved to irc.conf
+2015-07-14 15:19:47		Options saved to irc.conf
+2015-07-14 15:19:49		Options saved to irc.conf
+2015-07-14 15:19:51		Options saved to irc.conf
+2015-07-14 15:19:53		Options saved to irc.conf
+2015-07-14 15:19:55		Options saved to irc.conf
+2015-07-14 15:27:17		Options saved to irc.conf
+2015-07-14 15:27:27		Options saved to irc.conf
+2015-07-14 15:27:29		Options saved to irc.conf
+2015-07-14 15:27:31		Options saved to irc.conf
+2015-07-14 15:27:33		Options saved to irc.conf
+2015-07-14 15:27:35		Options saved to irc.conf
+2015-07-14 15:27:37		Options saved to irc.conf
+2015-07-16 16:09:58		python: scripts unloaded
+2015-07-16 16:09:58		perl: scripts unloaded
+2015-07-16 16:15:21		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-16 16:15:21		python scripts loaded: autoconnect, weestreamer
+2015-07-16 16:15:21		script: downloading list of scripts...
+2015-07-16 16:15:21		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-16 16:15:21		Upgrade done (0.10s)
+2015-07-16 16:15:22		script: 299 scripts for WeeChat 1.1.1
+2015-07-16 16:15:27		Options saved to irc.conf
+2015-07-16 16:15:28		Options saved to irc.conf
+2015-07-16 16:15:28		Options saved to irc.conf
+2015-07-16 16:15:28		Options saved to irc.conf
+2015-07-16 16:15:28		Options saved to irc.conf
+2015-07-16 16:15:28		Options saved to irc.conf
+2015-07-17 16:06:33		Options saved to irc.conf
+2015-07-17 16:06:43		Options saved to irc.conf
+2015-07-17 16:06:45		Options saved to irc.conf
+2015-07-17 16:06:47		Options saved to irc.conf
+2015-07-17 16:06:49		Options saved to irc.conf
+2015-07-17 16:06:51		Options saved to irc.conf
+2015-07-17 16:06:53		Options saved to irc.conf
+2015-07-17 16:28:42		Options saved to irc.conf
+2015-07-17 16:28:52		Options saved to irc.conf
+2015-07-17 16:28:54		Options saved to irc.conf
+2015-07-17 16:28:56		Options saved to irc.conf
+2015-07-17 16:28:58		Options saved to irc.conf
+2015-07-17 16:29:00		Options saved to irc.conf
+2015-07-17 16:29:02		Options saved to irc.conf
+2015-07-17 16:30:56		Options saved to irc.conf
+2015-07-17 16:31:06		Options saved to irc.conf
+2015-07-17 16:31:08		Options saved to irc.conf
+2015-07-17 16:31:10		Options saved to irc.conf
+2015-07-17 16:31:12		Options saved to irc.conf
+2015-07-17 16:31:14		Options saved to irc.conf
+2015-07-17 16:31:16		Options saved to irc.conf
+2015-07-19 06:15:38		Options saved to irc.conf
+2015-07-19 06:15:48		Options saved to irc.conf
+2015-07-19 06:17:18		Options saved to irc.conf
+2015-07-19 06:17:20		Options saved to irc.conf
+2015-07-19 06:17:18		Options saved to irc.conf
+2015-07-19 06:17:20		Options saved to irc.conf
+2015-07-19 06:17:22		Options saved to irc.conf
+2015-07-19 06:17:24		Options saved to irc.conf
+2015-07-19 06:17:26		Options saved to irc.conf
+2015-07-19 06:17:28		Options saved to irc.conf
+2015-07-19 06:17:22	=!=	Error: failed to save options to irc.conf
+2015-07-19 06:17:24		Options saved to irc.conf
+2015-07-19 06:17:26		Options saved to irc.conf
+2015-07-19 06:17:28		Options saved to irc.conf
+2015-07-22 19:58:34		Options saved to irc.conf
+2015-07-22 19:58:44		Options saved to irc.conf
+2015-07-22 19:58:46		Options saved to irc.conf
+2015-07-22 19:58:48		Options saved to irc.conf
+2015-07-22 19:58:50		Options saved to irc.conf
+2015-07-22 19:58:52		Options saved to irc.conf
+2015-07-22 19:58:54		Options saved to irc.conf
+2015-07-22 20:19:49		Options saved to irc.conf
+2015-07-22 20:19:59		Options saved to irc.conf
+2015-07-22 20:20:01		Options saved to irc.conf
+2015-07-22 20:20:03		Options saved to irc.conf
+2015-07-22 20:20:05		Options saved to irc.conf
+2015-07-22 20:20:07		Options saved to irc.conf
+2015-07-22 20:20:09		Options saved to irc.conf
+2015-07-24 15:48:09		Options saved to irc.conf
+2015-07-24 15:47:46		Options saved to irc.conf
+2015-07-24 15:49:16		Options saved to irc.conf
+2015-07-24 15:49:18		Options saved to irc.conf
+2015-07-24 15:49:20		Options saved to irc.conf
+2015-07-24 15:49:39		Options saved to irc.conf
+2015-07-24 15:49:41		Options saved to irc.conf
+2015-07-24 15:49:43		Options saved to irc.conf
+2015-07-24 15:49:45		Options saved to irc.conf
+2015-07-24 15:49:47		Options saved to irc.conf
+2015-07-24 15:49:49		Options saved to irc.conf
+2015-07-24 15:49:22		Options saved to irc.conf
+2015-07-24 15:49:24		Options saved to irc.conf
+2015-07-24 15:49:26		Options saved to irc.conf
+2015-07-24 15:58:18		Options saved to irc.conf
+2015-07-24 16:00:10		Options saved to irc.conf
+2015-07-24 16:01:28		Options saved to irc.conf
+2015-07-24 16:01:30		Options saved to irc.conf
+2015-07-24 16:01:32		Options saved to irc.conf
+2015-07-24 16:01:34		Options saved to irc.conf
+2015-07-24 16:01:36		Options saved to irc.conf
+2015-07-24 16:01:38		Options saved to irc.conf
+2015-07-24 16:01:40		Options saved to irc.conf
+2015-07-24 16:01:42		Options saved to irc.conf
+2015-07-24 16:01:44		Options saved to irc.conf
+2015-07-24 16:01:46		Options saved to irc.conf
+2015-07-24 16:01:48		Options saved to irc.conf
+2015-07-24 16:01:50		Options saved to irc.conf
+2015-07-25 14:51:13		python: scripts unloaded
+2015-07-25 14:51:13		perl: scripts unloaded
+2015-07-25 18:35:27		perl scripts loaded: buffers, colorize_lines, iset
+2015-07-25 18:35:28		python scripts loaded: autoconnect, weestreamer
+2015-07-25 18:35:28		script: downloading list of scripts...
+2015-07-25 18:35:28		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-07-25 18:35:28		Upgrade done (0.11s)
+2015-07-25 18:35:29		script: 299 scripts for WeeChat 1.1.1
+2015-07-25 18:35:35		Options saved to irc.conf
+2015-07-25 18:35:35		Options saved to irc.conf
+2015-07-25 18:35:35		Options saved to irc.conf
+2015-07-25 18:35:35		Options saved to irc.conf
+2015-07-25 18:35:36		Options saved to irc.conf
+2015-07-25 18:35:36		Options saved to irc.conf
+2015-07-25 18:35:39		Options saved to irc.conf
+2015-07-25 18:35:46		Options saved to irc.conf
+2015-07-25 19:17:29		Options saved to irc.conf
+2015-07-25 21:15:05	=!=	Error: unknown command "/colors" (type /help for help)
+2015-07-25 21:15:35		Option changed: weechat.color.chat_nick_colors = "blue"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2015-07-25 21:23:33		Option changed: weechat.color.chat_nick_colors = "blue,default"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2015-07-25 22:08:23		Options saved to irc.conf
+2015-07-26 00:46:50		Option changed: weechat.look.day_change_message_1date = "${color:magenta} %a, %d %b %Y "  (default: "-- %a, %d %b %Y --")
+2015-07-26 00:47:08		Option changed: weechat.look.day_change_message_2dates = "${color:magenta} %%a, %%d %%b %%Y (%a, %d %b %Y) "  (default: "-- %%a, %%d %%b %%Y (%a, %d %b %Y) --")
+2015-07-26 21:57:38		Options saved to irc.conf
+2015-07-26 23:49:18		Options saved to irc.conf
+2015-07-26 23:49:28		Options saved to irc.conf
+2015-07-26 23:49:30		Options saved to irc.conf
+2015-07-26 23:49:32		Options saved to irc.conf
+2015-07-26 23:49:34		Options saved to irc.conf
+2015-07-26 23:49:36		Options saved to irc.conf
+2015-07-26 23:49:38		Options saved to irc.conf
+2015-07-27 00:12:24		Options saved to irc.conf
+2015-07-27 00:12:34		Options saved to irc.conf
+2015-07-27 00:12:36		Options saved to irc.conf
+2015-07-27 00:12:38		Options saved to irc.conf
+2015-07-27 00:12:40		Options saved to irc.conf
+2015-07-27 00:12:42		Options saved to irc.conf
+2015-07-27 00:12:44		Options saved to irc.conf
+2015-07-27 00:13:17		Options saved to irc.conf
+2015-07-27 00:13:28		Options saved to irc.conf
+2015-07-27 00:13:31		Options saved to irc.conf
+2015-07-27 00:13:33		Options saved to irc.conf
+2015-07-27 00:13:35		Options saved to irc.conf
+2015-07-27 00:13:37		Options saved to irc.conf
+2015-07-27 00:13:39		Options saved to irc.conf
+2015-07-27 00:13:41		Options saved to irc.conf
+2015-07-29 15:18:31		Options saved to irc.conf
+2015-07-29 15:18:42		Options saved to irc.conf
+2015-07-29 15:18:44		Options saved to irc.conf
+2015-07-29 15:18:46		Options saved to irc.conf
+2015-07-29 15:18:48		Options saved to irc.conf
+2015-07-29 15:18:50		Options saved to irc.conf
+2015-07-29 15:18:52		Options saved to irc.conf
+2015-07-29 16:06:28		Options saved to irc.conf
+2015-07-29 16:06:39		Options saved to irc.conf
+2015-07-29 16:06:42		Options saved to irc.conf
+2015-07-29 16:06:44		Options saved to irc.conf
+2015-07-29 16:06:46		Options saved to irc.conf
+2015-07-29 16:06:48		Options saved to irc.conf
+2015-07-29 16:06:50		Options saved to irc.conf
+2015-07-29 16:06:52		Options saved to irc.conf
+2015-07-29 16:30:15		Options saved to irc.conf
+2015-07-29 16:30:25		Options saved to irc.conf
+2015-07-29 16:30:27		Options saved to irc.conf
+2015-07-29 16:30:29		Options saved to irc.conf
+2015-07-29 16:30:31		Options saved to irc.conf
+2015-07-29 16:30:33		Options saved to irc.conf
+2015-07-29 16:30:35		Options saved to irc.conf
+2015-07-30 14:42:52		Options saved to irc.conf
+2015-07-30 14:42:55		Options saved to irc.conf
+2015-07-30 14:42:57		Options saved to irc.conf
+2015-08-01 15:51:16		python: scripts unloaded
+2015-08-01 15:51:16		perl: scripts unloaded
+2015-08-01 16:17:34		Options saved to irc.conf
+2015-08-01 16:18:07		Options saved to irc.conf
+2015-08-01 16:18:09		Options saved to irc.conf
+2015-08-01 16:18:11		Options saved to irc.conf
+2015-08-01 16:18:13		Options saved to irc.conf
+2015-08-01 16:18:15		Options saved to irc.conf
+2015-08-01 16:18:17		Options saved to irc.conf
+2015-08-03 15:21:19		python: scripts unloaded
+2015-08-03 15:21:19		perl: scripts unloaded
+2015-08-07 12:47:07		perl scripts loaded: buffers, colorize_lines, iset
+2015-08-07 12:47:07		python scripts loaded: autoconnect, weestreamer
+2015-08-07 12:47:07		script: downloading list of scripts...
+2015-08-07 12:47:07		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-08-07 12:47:07		Upgrade done (0.10s)
+2015-08-07 12:47:09		script: 299 scripts for WeeChat 1.1.1
+2015-08-07 12:47:11		Options saved to irc.conf
+2015-08-07 12:47:11		Options saved to irc.conf
+2015-08-07 12:47:11		Options saved to irc.conf
+2015-08-07 12:47:11		Options saved to irc.conf
+2015-08-07 12:47:11		Options saved to irc.conf
+2015-08-07 12:47:11		Options saved to irc.conf
+2015-08-07 12:47:15		Options saved to irc.conf
+2015-08-07 12:47:19		Options saved to irc.conf
+2015-08-07 12:47:21		Options saved to irc.conf
+2015-08-07 12:47:23		Options saved to irc.conf
+2015-08-07 12:47:25		Options saved to irc.conf
+2015-08-11 21:25:25		Options saved to irc.conf
+2015-08-11 21:25:36		Options saved to irc.conf
+2015-08-11 21:25:38		Options saved to irc.conf
+2015-08-11 21:25:41		Options saved to irc.conf
+2015-08-13 07:48:24		Options saved to irc.conf
+2015-08-13 07:48:35		Options saved to irc.conf
+2015-08-13 07:48:37		Options saved to irc.conf
+2015-08-13 07:48:39		Options saved to irc.conf
+2015-08-13 08:03:08		Options saved to irc.conf
+2015-08-13 08:03:19		Options saved to irc.conf
+2015-08-13 08:03:21		Options saved to irc.conf
+2015-08-13 08:03:23		Options saved to irc.conf
+2015-08-13 08:07:42		Options saved to irc.conf
+2015-08-13 08:08:28		Options saved to irc.conf
+2015-08-13 08:08:59		Options saved to irc.conf
+2015-08-13 08:09:00		Options saved to irc.conf
+2015-08-13 12:37:08		python: scripts unloaded
+2015-08-13 12:37:08		perl: scripts unloaded
+2015-08-13 13:11:14		perl scripts loaded: buffers, colorize_lines, iset
+2015-08-13 13:11:14		python scripts loaded: autoconnect, weestreamer
+2015-08-13 13:11:14		script: downloading list of scripts...
+2015-08-13 13:11:14		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-08-13 13:11:14		Upgrade done (0.09s)
+2015-08-13 13:11:16		script: 299 scripts for WeeChat 1.1.1
+2015-08-13 13:11:20		Options saved to irc.conf
+2015-08-13 13:11:20		Options saved to irc.conf
+2015-08-13 13:11:20		Options saved to irc.conf
+2015-08-13 13:11:26		Options saved to irc.conf
+2015-08-13 22:18:39		Options saved to irc.conf
+2015-09-13 23:17:53		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-13 23:17:54		python scripts loaded: autoconnect, weestreamer
+2015-09-13 23:17:54		script: downloading list of scripts...
+2015-09-13 23:17:54		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-09-13 23:17:54		Upgrade done (0.10s)
+2015-09-13 23:17:55		script: 299 scripts for WeeChat 1.1.1
+2015-09-13 23:17:58		Options saved to irc.conf
+2015-09-13 23:17:58		Options saved to irc.conf
+2015-09-13 23:17:58		Options saved to irc.conf
+2015-09-13 23:17:58		Options saved to irc.conf
+2015-09-13 23:17:58		Options saved to irc.conf
+2015-09-13 23:32:19		Options saved to irc.conf
+2015-09-14 14:59:00		python: scripts unloaded
+2015-09-14 14:59:00		perl: scripts unloaded
+2015-09-14 14:59:09		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-14 14:59:09		python scripts loaded: autoconnect, weestreamer
+2015-09-14 14:59:09		script: 299 scripts for WeeChat 1.1.1
+2015-09-14 14:59:09		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-09-14 14:59:09		Upgrade done (0.15s)
+2015-09-14 14:59:19		Options saved to irc.conf
+2015-09-14 14:59:19		Options saved to irc.conf
+2015-09-14 14:59:19		Options saved to irc.conf
+2015-09-14 14:59:19		Options saved to irc.conf
+2015-09-14 14:59:19		Options saved to irc.conf
+2015-09-14 14:59:19		Options saved to irc.conf
+2015-09-14 14:59:46		python: scripts unloaded
+2015-09-14 14:59:46		perl: scripts unloaded
+2015-09-14 14:59:50		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-14 14:59:50		python scripts loaded: autoconnect, weestreamer
+2015-09-14 14:59:50		script: 299 scripts for WeeChat 1.1.1
+2015-09-14 14:59:50		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2015-09-14 14:59:50		Upgrade done (0.11s)
+2015-09-14 14:59:53		Options saved to irc.conf
+2015-09-14 14:59:53		Options saved to irc.conf
+2015-09-14 14:59:53		Options saved to irc.conf
+2015-09-14 14:59:53		Options saved to irc.conf
+2015-09-14 14:59:53		Options saved to irc.conf
+2015-09-14 14:59:53		Options saved to irc.conf
+2015-09-15 20:58:23	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-15 20:58:23		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-15 20:58:23		python scripts loaded: autoconnect, weestreamer
+2015-09-15 20:58:23	=!=	Warning: /Users/JnNy/.twitch/script.conf, line 46: unknown option for section "scripts": dir = "%h/script"
+2015-09-15 20:58:23		script: downloading list of scripts...
+2015-09-15 20:58:23		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-15 20:58:23		Upgrade done (0.10s)
+2015-09-15 20:58:27		script: 299 scripts for WeeChat 1.3
+2015-09-15 20:58:32		Options saved to irc.conf
+2015-09-15 20:58:32		Options saved to irc.conf
+2015-09-15 20:58:32		Options saved to irc.conf
+2015-09-15 20:58:32		Options saved to irc.conf
+2015-09-15 20:58:32		Options saved to irc.conf
+2015-09-15 20:58:32		Options saved to irc.conf
+2015-09-15 21:01:16		Options saved to irc.conf
+2015-09-15 21:01:18		Options saved to irc.conf
+2015-09-15 21:01:20		Options saved to irc.conf
+2015-09-15 21:01:22		Options saved to irc.conf
+2015-09-15 21:01:24		Options saved to irc.conf
+2015-09-15 21:01:26		Options saved to irc.conf
+2015-09-15 21:01:34		Options saved to irc.conf
+2015-09-15 21:02:08		python: scripts unloaded
+2015-09-15 21:02:08		perl: scripts unloaded
+2015-09-15 21:02:22	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-15 21:02:22		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-15 21:02:22		python scripts loaded: autoconnect, weestreamer
+2015-09-15 21:02:22		script: 299 scripts for WeeChat 1.3
+2015-09-15 21:02:22		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-15 21:02:22		Upgrade done (0.11s)
+2015-09-15 21:02:34		Options saved to irc.conf
+2015-09-15 21:02:34		Options saved to irc.conf
+2015-09-15 21:02:41	=!=	Error with command "/buffer show simpleflips" (help on command: /help buffer)
+2015-09-15 21:02:45		python: scripts unloaded
+2015-09-15 21:02:45		perl: scripts unloaded
+2015-09-15 21:02:46	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-15 21:02:46		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-15 21:02:47		python scripts loaded: autoconnect, weestreamer
+2015-09-15 21:02:47		script: 299 scripts for WeeChat 1.3
+2015-09-15 21:02:47		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-15 21:02:47		Upgrade done (0.11s)
+2015-09-15 21:02:58		Options saved to irc.conf
+2015-09-15 21:02:58		Options saved to irc.conf
+2015-09-15 21:03:02	=!=	Error with command "/bar buffer hide" (help on command: /help bar)
+2015-09-15 21:03:05	=!=	Error: unknown bar "buffer"
+2015-09-15 21:03:47		python: scripts unloaded
+2015-09-15 21:03:47		perl: scripts unloaded
+2015-09-15 21:04:06	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-15 21:04:06		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-15 21:04:06		python scripts loaded: autoconnect, weestreamer
+2015-09-15 21:04:06		script: 299 scripts for WeeChat 1.3
+2015-09-15 21:04:06		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-15 21:04:06		Upgrade done (0.11s)
+2015-09-15 21:04:10		Options saved to irc.conf
+2015-09-15 21:04:10		Options saved to irc.conf
+2015-09-15 22:08:41		Options saved to irc.conf
+2015-09-15 22:08:52		Options saved to irc.conf
+2015-09-15 22:08:54		Options saved to irc.conf
+2015-09-17 12:09:27		python: scripts unloaded
+2015-09-17 12:09:27		perl: scripts unloaded
+2015-09-17 12:14:07	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-17 12:14:07		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-17 12:14:07		python scripts loaded: autoconnect, weestreamer
+2015-09-17 12:14:07		script: downloading list of scripts...
+2015-09-17 12:14:07		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-17 12:14:07		Upgrade done (0.08s)
+2015-09-17 12:14:08		script: 299 scripts for WeeChat 1.3
+2015-09-17 12:14:10		Options saved to irc.conf
+2015-09-17 12:14:10		Options saved to irc.conf
+2015-09-17 12:14:34		Options saved to irc.conf
+2015-09-17 12:14:36		python: scripts unloaded
+2015-09-17 12:14:36		perl: scripts unloaded
+2015-09-17 12:14:40	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-17 12:14:41		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-17 12:14:41		python scripts loaded: autoconnect, weestreamer
+2015-09-17 12:14:41		script: 299 scripts for WeeChat 1.3
+2015-09-17 12:14:41		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-17 12:14:41		Upgrade done (0.11s)
+2015-09-17 12:14:50		Options saved to irc.conf
+2015-09-17 12:14:50		Options saved to irc.conf
+2015-09-17 12:14:50		Options saved to irc.conf
+2015-09-17 12:20:06		python: scripts unloaded
+2015-09-17 12:20:06		perl: scripts unloaded
+2015-09-17 12:26:50	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-17 12:26:50		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-17 12:26:50		python scripts loaded: autoconnect, weestreamer
+2015-09-17 12:26:50		script: 299 scripts for WeeChat 1.3
+2015-09-17 12:26:50		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-17 12:26:50		Upgrade done (0.11s)
+2015-09-17 12:26:53		Options saved to irc.conf
+2015-09-17 12:26:53		Options saved to irc.conf
+2015-09-17 12:26:53		Options saved to irc.conf
+2015-09-17 12:36:20		python: scripts unloaded
+2015-09-17 12:36:20		perl: scripts unloaded
+2015-09-23 01:00:24	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-23 01:00:24		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-23 01:00:24		python scripts loaded: autoconnect, weestreamer
+2015-09-23 01:00:24		script: downloading list of scripts...
+2015-09-23 01:00:24		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-23 01:00:24		Upgrade done (0.10s)
+2015-09-23 01:00:25		script: 299 scripts for WeeChat 1.3
+2015-09-23 01:00:28		Options saved to irc.conf
+2015-09-23 01:00:28		Options saved to irc.conf
+2015-09-23 01:00:28		Options saved to irc.conf
+2015-09-23 01:00:32		Options saved to irc.conf
+2015-09-23 15:03:50		Options saved to irc.conf
+2015-09-23 15:04:00		Options saved to irc.conf
+2015-09-23 15:04:02		Options saved to irc.conf
+2015-09-23 15:04:04		Options saved to irc.conf
+2015-09-23 15:04:06		Options saved to irc.conf
+2015-09-23 22:56:16		Options saved to irc.conf
+2015-09-23 22:56:26		Options saved to irc.conf
+2015-09-23 22:56:28		Options saved to irc.conf
+2015-09-23 22:56:30		Options saved to irc.conf
+2015-09-23 22:56:32		Options saved to irc.conf
+2015-09-24 01:58:56		Options saved to irc.conf
+2015-09-24 01:59:46		Options saved to irc.conf
+2015-09-24 14:58:51		Options saved to irc.conf
+2015-09-24 14:59:01		Options saved to irc.conf
+2015-09-24 14:59:03		Options saved to irc.conf
+2015-09-24 14:59:05		Options saved to irc.conf
+2015-09-24 14:59:07		Options saved to irc.conf
+2015-09-24 14:59:09		Options saved to irc.conf
+2015-09-24 14:59:11		Options saved to irc.conf
+2015-09-24 15:33:35		Options saved to irc.conf
+2015-09-24 16:39:03		python: scripts unloaded
+2015-09-24 16:39:03		perl: scripts unloaded
+2015-09-24 21:47:26	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-24 21:47:26		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-24 21:47:26		python scripts loaded: autoconnect, weestreamer
+2015-09-24 21:47:26		script: downloading list of scripts...
+2015-09-24 21:47:26		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-24 21:47:26		Upgrade done (0.10s)
+2015-09-24 21:47:27		script: 299 scripts for WeeChat 1.3
+2015-09-24 21:47:29		Options saved to irc.conf
+2015-09-24 21:47:29		Options saved to irc.conf
+2015-09-24 21:47:29		Options saved to irc.conf
+2015-09-24 21:47:29		Options saved to irc.conf
+2015-09-24 21:47:29		Options saved to irc.conf
+2015-09-24 21:47:29		Options saved to irc.conf
+2015-09-24 21:47:53		Options saved to irc.conf
+2015-09-24 21:47:55		Options saved to irc.conf
+2015-09-24 21:47:58		Options saved to irc.conf
+2015-09-24 21:48:06		Options saved to irc.conf
+2015-09-24 21:52:14		Options saved to irc.conf
+2015-09-25 03:15:59		Options saved to irc.conf
+2015-09-25 03:16:10		Options saved to irc.conf
+2015-09-25 03:16:11		Options saved to irc.conf
+2015-09-25 03:16:13		Options saved to irc.conf
+2015-09-25 03:16:15		Options saved to irc.conf
+2015-09-25 03:16:17		Options saved to irc.conf
+2015-09-25 14:56:41		Options saved to irc.conf
+2015-09-25 14:56:51		Options saved to irc.conf
+2015-09-25 14:56:53		Options saved to irc.conf
+2015-09-25 14:56:55		Options saved to irc.conf
+2015-09-25 14:56:57		Options saved to irc.conf
+2015-09-25 14:56:59		Options saved to irc.conf
+2015-09-26 02:25:48		Options saved to irc.conf
+2015-09-26 02:25:58		Options saved to irc.conf
+2015-09-26 02:26:00		Options saved to irc.conf
+2015-09-26 02:26:02		Options saved to irc.conf
+2015-09-26 02:26:04		Options saved to irc.conf
+2015-09-26 02:26:06		Options saved to irc.conf
+2015-09-26 18:16:10		Options saved to irc.conf
+2015-09-26 18:16:20		Options saved to irc.conf
+2015-09-26 18:16:22		Options saved to irc.conf
+2015-09-26 18:16:24		Options saved to irc.conf
+2015-09-26 18:16:26		Options saved to irc.conf
+2015-09-26 18:16:28		Options saved to irc.conf
+2015-09-26 20:30:00		Options saved to irc.conf
+2015-09-26 20:30:10		Options saved to irc.conf
+2015-09-26 20:30:12		Options saved to irc.conf
+2015-09-26 20:30:14		Options saved to irc.conf
+2015-09-26 20:30:16		Options saved to irc.conf
+2015-09-26 20:30:18		Options saved to irc.conf
+2015-09-27 03:32:59		Options saved to irc.conf
+2015-09-27 03:33:09		Options saved to irc.conf
+2015-09-27 03:33:11		Options saved to irc.conf
+2015-09-27 03:33:13		Options saved to irc.conf
+2015-09-27 03:33:15		Options saved to irc.conf
+2015-09-27 03:33:17		Options saved to irc.conf
+2015-09-27 15:42:08		Options saved to irc.conf
+2015-09-27 15:42:18		Options saved to irc.conf
+2015-09-27 15:42:20		Options saved to irc.conf
+2015-09-27 15:42:22		Options saved to irc.conf
+2015-09-27 15:42:24		Options saved to irc.conf
+2015-09-27 15:42:26		Options saved to irc.conf
+2015-09-28 13:42:29		python: scripts unloaded
+2015-09-28 13:42:29		perl: scripts unloaded
+2015-09-28 14:03:19	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-28 14:03:19		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-28 14:03:19		python scripts loaded: autoconnect, weestreamer
+2015-09-28 14:03:19		script: downloading list of scripts...
+2015-09-28 14:03:19		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-28 14:03:19		Upgrade done (0.10s)
+2015-09-28 14:03:20		script: 299 scripts for WeeChat 1.3
+2015-09-28 14:03:27		script: script "autoconnect.py" is already installed and up-to-date
+2015-09-28 14:03:34		Options saved to irc.conf
+2015-09-28 14:03:34		Options saved to irc.conf
+2015-09-28 14:03:34		Options saved to irc.conf
+2015-09-28 14:03:34		Options saved to irc.conf
+2015-09-28 14:03:34		Options saved to irc.conf
+2015-09-28 14:03:37		Options saved to sec.conf
+2015-09-28 14:03:37		Options saved to weechat.conf
+2015-09-28 14:03:37		Options saved to plugins.conf
+2015-09-28 14:03:37		Options saved to charset.conf
+2015-09-28 14:03:37		Options saved to logger.conf
+2015-09-28 14:03:37		Options saved to exec.conf
+2015-09-28 14:03:37		Options saved to trigger.conf
+2015-09-28 14:03:37		Options saved to alias.conf
+2015-09-28 14:03:37		Options saved to xfer.conf
+2015-09-28 14:03:37		Options saved to irc.conf
+2015-09-28 14:03:37		Options saved to relay.conf
+2015-09-28 14:03:37		Options saved to buffers.conf
+2015-09-28 14:03:37		Options saved to iset.conf
+2015-09-28 14:03:37		Options saved to script.conf
+2015-09-28 14:03:43	=!=	Error: unknown bar "buffer"
+2015-09-28 14:57:47		Options saved to irc.conf
+2015-09-29 00:13:54		Options saved to irc.conf
+2015-09-29 01:52:21		fifo: removing old fifo pipe "/Users/JnNy/.twitch/weechat_fifo_1019"
+2015-09-29 01:52:21	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-29 01:52:21		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-29 01:52:21		python scripts loaded: autoconnect, weestreamer
+2015-09-29 01:52:21		script: 299 scripts for WeeChat 1.3
+2015-09-29 01:52:21		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-29 01:52:21		Upgrade done (0.12s)
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 01:52:25		Options saved to irc.conf
+2015-09-29 15:46:15		Options saved to irc.conf
+2015-09-29 20:34:00		python: scripts unloaded
+2015-09-29 20:34:00		perl: scripts unloaded
+2015-09-29 21:03:02	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-29 21:03:02		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-29 21:03:02		python scripts loaded: autoconnect, weestreamer
+2015-09-29 21:03:02		script: downloading list of scripts...
+2015-09-29 21:03:02		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-29 21:03:02		Upgrade done (0.09s)
+2015-09-29 21:03:03		script: 299 scripts for WeeChat 1.3
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:05		Options saved to irc.conf
+2015-09-29 21:03:11		Options saved to irc.conf
+2015-09-29 21:03:13		Options saved to irc.conf
+2015-09-29 21:03:15		Options saved to irc.conf
+2015-09-29 21:03:17		Options saved to irc.conf
+2015-09-29 21:03:19		Options saved to irc.conf
+2015-09-29 21:03:21		Options saved to irc.conf
+2015-09-29 21:03:23		Options saved to irc.conf
+2015-09-29 21:03:25		Options saved to irc.conf
+2015-09-29 21:03:27		Options saved to irc.conf
+2015-09-30 01:27:03		fifo: removing old fifo pipe "/Users/JnNy/.twitch/weechat_fifo_6290"
+2015-09-30 01:27:03	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-09-30 01:27:03		perl scripts loaded: buffers, colorize_lines, iset
+2015-09-30 01:27:03		python scripts loaded: autoconnect, weestreamer
+2015-09-30 01:27:04		script: 299 scripts for WeeChat 1.3
+2015-09-30 01:27:04		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-09-30 01:27:04		Upgrade done (0.13s)
+2015-09-30 01:27:13		Options saved to irc.conf
+2015-09-30 01:27:13		Options saved to irc.conf
+2015-09-30 01:27:29		Options saved to irc.conf
+2015-09-30 01:27:36		Options saved to sec.conf
+2015-09-30 01:27:36		Options saved to weechat.conf
+2015-09-30 01:27:36		Options saved to plugins.conf
+2015-09-30 01:27:36		Options saved to charset.conf
+2015-09-30 01:27:36		Options saved to logger.conf
+2015-09-30 01:27:36		Options saved to exec.conf
+2015-09-30 01:27:36		Options saved to trigger.conf
+2015-09-30 01:27:36		Options saved to alias.conf
+2015-09-30 01:27:36		Options saved to xfer.conf
+2015-09-30 01:27:36		Options saved to irc.conf
+2015-09-30 01:27:36		Options saved to relay.conf
+2015-09-30 01:27:36		Options saved to buffers.conf
+2015-09-30 01:27:36		Options saved to iset.conf
+2015-09-30 01:27:36		Options saved to script.conf
+2015-09-30 13:28:44		Options saved to irc.conf
+2015-09-30 13:28:54		Options saved to irc.conf
+2015-09-30 13:28:56		Options saved to irc.conf
+2015-09-30 13:28:58		Options saved to irc.conf
+2015-09-30 18:30:05		Options saved to irc.conf
+2015-09-30 18:30:15		Options saved to irc.conf
+2015-09-30 18:30:17		Options saved to irc.conf
+2015-09-30 18:30:19		Options saved to irc.conf
+2015-10-01 01:18:16		Options saved to irc.conf
+2015-10-01 01:18:26		Options saved to irc.conf
+2015-10-01 01:18:28		Options saved to irc.conf
+2015-10-01 01:18:30		Options saved to irc.conf
+2015-10-01 12:27:38		Options saved to irc.conf
+2015-10-01 12:27:48		Options saved to irc.conf
+2015-10-01 12:27:50		Options saved to irc.conf
+2015-10-01 12:27:52		Options saved to irc.conf
+2015-10-02 13:47:20		Options saved to irc.conf
+2015-10-02 13:47:31		Options saved to irc.conf
+2015-10-02 13:47:33		Options saved to irc.conf
+2015-10-02 13:47:35		Options saved to irc.conf
+2015-10-03 01:49:40		Options saved to irc.conf
+2015-10-03 01:49:50		Options saved to irc.conf
+2015-10-03 01:49:52		Options saved to irc.conf
+2015-10-03 01:49:54		Options saved to irc.conf
+2015-10-03 16:59:46		Options saved to irc.conf
+2015-10-03 16:59:56		Options saved to irc.conf
+2015-10-03 16:59:58		Options saved to irc.conf
+2015-10-03 17:00:00		Options saved to irc.conf
+2015-10-04 12:13:17		Options saved to irc.conf
+2015-10-04 12:13:28		Options saved to irc.conf
+2015-10-04 12:13:31		Options saved to irc.conf
+2015-10-04 12:13:32		Options saved to irc.conf
+2015-10-04 21:14:07		fifo: removing old fifo pipe "/Users/JnNy/.twitch/weechat_fifo_4637"
+2015-10-04 21:14:07	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-10-04 21:14:07		perl scripts loaded: buffers, colorize_lines, iset
+2015-10-04 21:14:07		python scripts loaded: autoconnect, weestreamer
+2015-10-04 21:14:07		script: downloading list of scripts...
+2015-10-04 21:14:07		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-10-04 21:14:07		Upgrade done (0.16s)
+2015-10-04 21:14:09		script: 299 scripts for WeeChat 1.3
+2015-10-04 21:14:11		Options saved to irc.conf
+2015-10-04 21:14:11		Options saved to irc.conf
+2015-10-04 21:14:11		Options saved to irc.conf
+2015-10-04 21:14:47		python: scripts unloaded
+2015-10-04 21:14:47		perl: scripts unloaded
+2015-10-07 13:54:53		Options saved to irc.conf
+2015-10-07 13:55:03		Options saved to irc.conf
+2015-10-07 13:55:05		Options saved to irc.conf
+2015-10-07 13:55:07		Options saved to irc.conf
+2015-10-07 16:42:25		Options saved to irc.conf
+2015-10-07 16:42:37		Options saved to irc.conf
+2015-10-07 16:42:38		Options saved to irc.conf
+2015-10-07 16:42:40		Options saved to irc.conf
+2015-10-08 01:05:08		python: scripts unloaded
+2015-10-08 01:05:08		perl: scripts unloaded
+2015-10-10 19:04:45	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-10-10 19:04:45		perl scripts loaded: buffers, colorize_lines, iset
+2015-10-10 19:04:45		python scripts loaded: autoconnect, weestreamer
+2015-10-10 19:04:45		script: downloading list of scripts...
+2015-10-10 19:04:45		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-10-10 19:04:45		Upgrade done (0.10s)
+2015-10-10 19:04:46		script: 299 scripts for WeeChat 1.3
+2015-10-10 19:04:49		python: scripts unloaded
+2015-10-10 19:04:49		perl: scripts unloaded
+2015-10-10 19:05:07	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-10-10 19:05:07		perl scripts loaded: buffers, colorize_lines, iset
+2015-10-10 19:05:07		python scripts loaded: autoconnect, weestreamer
+2015-10-10 19:05:07		script: 299 scripts for WeeChat 1.3
+2015-10-10 19:05:07		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-10-10 19:05:07		Upgrade done (0.11s)
+2015-10-10 19:05:12	=!=	irc: unable to add temporary server "simpleflips" because the addition of temporary servers with command /connect is currently disabled
+2015-10-10 19:05:12	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2015-10-10 19:05:22		Options saved to irc.conf
+2015-10-10 19:05:22		Options saved to irc.conf
+2015-10-10 19:05:22		Options saved to irc.conf
+2015-10-10 19:05:36		Options saved to irc.conf
+2015-10-11 19:09:20		Options saved to irc.conf
+2015-10-11 19:09:30		Options saved to irc.conf
+2015-10-11 19:09:32		Options saved to irc.conf
+2015-10-11 19:09:34		Options saved to irc.conf
+2015-10-11 19:09:36		Options saved to irc.conf
+2015-10-11 22:30:04		Options saved to irc.conf
+2015-10-11 22:30:14		Options saved to irc.conf
+2015-10-11 22:30:16		Options saved to irc.conf
+2015-10-11 22:30:18		Options saved to irc.conf
+2015-10-11 22:30:20		Options saved to irc.conf
+2015-10-12 14:22:10		Options saved to irc.conf
+2015-10-12 14:22:20		Options saved to irc.conf
+2015-10-12 14:22:22		Options saved to irc.conf
+2015-10-12 14:22:24		Options saved to irc.conf
+2015-10-12 14:22:26		Options saved to irc.conf
+2015-10-13 01:07:54		Options saved to irc.conf
+2015-10-13 01:08:04		Options saved to irc.conf
+2015-10-13 01:08:06		Options saved to irc.conf
+2015-10-13 01:08:08		Options saved to irc.conf
+2015-10-13 01:08:10		Options saved to irc.conf
+2015-10-13 01:16:49		Options saved to irc.conf
+2015-10-13 01:37:40		python: scripts unloaded
+2015-10-13 01:37:40		perl: scripts unloaded
+2015-10-24 16:57:28	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-10-24 16:57:28		perl scripts loaded: buffers, colorize_lines, iset
+2015-10-24 16:57:28		python scripts loaded: autoconnect, weestreamer
+2015-10-24 16:57:28		script: downloading list of scripts...
+2015-10-24 16:57:28		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-10-24 16:57:28		Upgrade done (0.16s)
+2015-10-24 16:57:30		script: 299 scripts for WeeChat 1.3
+2015-10-24 16:57:41		Options saved to irc.conf
+2015-10-24 16:57:52		python: scripts unloaded
+2015-10-24 16:57:52		perl: scripts unloaded
+2015-10-24 16:58:11	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2015-10-24 16:58:11		perl scripts loaded: buffers, colorize_lines, iset
+2015-10-24 16:58:11		python scripts loaded: autoconnect, weestreamer
+2015-10-24 16:58:11		script: 299 scripts for WeeChat 1.3
+2015-10-24 16:58:11		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2015-10-24 16:58:11		Upgrade done (0.11s)
+2015-10-24 16:58:14		Options saved to irc.conf
+2015-10-24 16:58:24		Options saved to sec.conf
+2015-10-24 16:58:24		Options saved to weechat.conf
+2015-10-24 16:58:24		Options saved to plugins.conf
+2015-10-24 16:58:24		Options saved to charset.conf
+2015-10-24 16:58:24		Options saved to logger.conf
+2015-10-24 16:58:24		Options saved to exec.conf
+2015-10-24 16:58:24		Options saved to trigger.conf
+2015-10-24 16:58:24		Options saved to alias.conf
+2015-10-24 16:58:24		Options saved to xfer.conf
+2015-10-24 16:58:24		Options saved to irc.conf
+2015-10-24 16:58:24		Options saved to relay.conf
+2015-10-24 16:58:24		Options saved to buffers.conf
+2015-10-24 16:58:24		Options saved to iset.conf
+2015-10-24 16:58:24		Options saved to script.conf
+2016-01-23 00:40:54		fifo: removing old fifo pipe "/Users/JnNy/.twitch/weechat_fifo_38653"
+2016-01-23 00:40:54	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2016-01-23 00:40:54		perl scripts loaded: buffers, colorize_lines, iset
+2016-01-23 00:40:54		python scripts loaded: autoconnect, weestreamer
+2016-01-23 00:40:54		script: downloading list of scripts...
+2016-01-23 00:40:54		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-01-23 00:40:54		Upgrade done (0.10s)
+2016-01-23 00:40:59		script: 299 scripts for WeeChat 1.3
+2016-01-23 00:41:47	=!=	irc: command "join" must be executed on irc buffer (server or channel)
+2016-01-23 00:41:54		Options saved to irc.conf
+2016-01-23 00:41:57		Options saved to irc.conf
+2016-01-23 00:42:06		Options saved to irc.conf
+2016-01-27 01:13:03		Options saved to irc.conf
+2016-01-27 01:13:13		Options saved to irc.conf
+2016-01-27 17:00:05		Options saved to irc.conf
+2016-01-27 17:00:15		Options saved to irc.conf
+2016-01-27 17:00:32		python: scripts unloaded
+2016-01-27 17:00:32		perl: scripts unloaded
+2016-02-09 20:26:42	=!=	Warning: /Users/JnNy/.twitch/irc.conf, line 84: unknown option for section "network": alternate_nick = on
+2016-02-09 20:26:42	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2016-02-09 20:26:42		perl scripts loaded: buffers, colorize_lines, iset
+2016-02-09 20:26:43		python scripts loaded: autoconnect, weestreamer
+2016-02-09 20:26:43		script: downloading list of scripts...
+2016-02-09 20:26:43		Plugins loaded: alias, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-09 20:26:43		Upgrade done (0.13s)
+2016-02-09 20:26:43		script: 299 scripts for WeeChat 1.4
+2016-02-09 20:28:23		fifo: removing old fifo pipe "/Users/JnNy/.twitch/weechat_fifo_54314"
+2016-02-09 20:28:23	=!=	Warning: /Users/JnNy/.twitch/irc.conf, line 84: unknown option for section "network": alternate_nick = on
+2016-02-09 20:28:23	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2016-02-09 20:28:23		perl scripts loaded: buffers, colorize_lines, iset
+2016-02-09 20:28:23		python scripts loaded: autoconnect, weestreamer
+2016-02-09 20:28:23		script: 299 scripts for WeeChat 1.4
+2016-02-09 20:28:23		Plugins loaded: alias, charset, exec, fifo, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2016-02-09 20:28:23		Upgrade done (0.12s)
+2016-02-09 20:28:27		Options saved to irc.conf
+2016-02-09 20:28:31		Options saved to irc.conf
+2016-02-09 20:28:42		Options saved to irc.conf
+2016-02-09 21:58:15		python: scripts unloaded
+2016-02-09 21:58:15		perl: scripts unloaded
+2016-04-03 18:43:00	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2016-04-03 18:43:00		perl scripts loaded: buffers, colorize_lines, iset
+2016-04-03 18:43:00		python scripts loaded: autoconnect, weestreamer
+2016-04-03 18:43:00		script: downloading list of scripts...
+2016-04-03 18:43:00		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-03 18:43:00		Upgrade done (0.11s)
+2016-04-03 18:43:01		script: 300 scripts for WeeChat 1.4
+2016-04-03 18:43:05		Options saved to irc.conf
+2016-04-03 18:43:09		Options saved to irc.conf
+2016-04-03 18:43:15		Options saved to irc.conf
+2016-04-03 22:13:06	=!=	Error: unknown command "/quti" (type /help for help)
+2016-04-03 22:13:09		python: scripts unloaded
+2016-04-03 22:13:09		perl: scripts unloaded
+2016-04-08 02:46:12	=!=	irc: WARNING: some network connections may still be opened and not visible, you should restart WeeChat now (with /quit).
+2016-04-08 02:46:12		perl scripts loaded: buffers, colorize_lines, iset
+2016-04-08 02:46:12		python scripts loaded: autoconnect, weestreamer
+2016-04-08 02:46:12		script: downloading list of scripts...
+2016-04-08 02:46:12		Plugins loaded: alias, charset, exec, fifo, irc, logger, perl, python, relay, script, tcl, trigger, xfer
+2016-04-08 02:46:12		Upgrade done (0.13s)
+2016-04-08 02:46:14		script: 300 scripts for WeeChat 1.4
+2016-04-08 02:46:16		Options saved to irc.conf
+2016-04-08 02:46:16		Options saved to irc.conf
+2016-04-08 02:46:20		Options saved to irc.conf
+2016-04-08 02:46:39		Options saved to irc.conf
+2016-04-08 02:46:41		Options saved to irc.conf
+2016-04-08 02:46:52		Option changed: weechat.bar.buffers.separator = off  (default: on)
+2016-04-08 02:47:08		Option changed: weechat.bar.buffers.separator = on
+2016-04-08 02:47:12		Option changed: weechat.look.separator_horizontal = ""  (default: "-")
+2016-04-08 02:47:25		Option changed: buffers.color.default_fg = black  (default: default)
+2016-04-08 02:47:29		Option changed: buffers.color.default_fg = black  (default: default)
+2016-04-08 02:47:41		Option changed: buffers.color.current_fg = blue  (default: lightcyan)
+2016-04-08 02:48:14		Option changed: weechat.bar.buffers.color_fg = black  (default: default)
+2016-04-08 02:48:33		Option changed: buffers.color.hotlist_low_fg = black  (default: white)
+2016-04-08 02:48:51		Option changed: buffers.color.hotlist_message_fg = red  (default: yellow)
+2016-04-08 02:48:57		Option changed: buffers.color.hotlist_message_fg = black  (default: yellow)
+2016-04-08 02:49:05		Option changed: buffers.color.hotlist_private_fg = red  (default: lightgreen)
+2016-04-08 02:49:10		Option changed: buffers.color.none_channel_fg = black  (default: default)
+2016-04-08 02:54:13		Option changed: weechat.color.chat_nick_colors = "red, lightred,blue, lightblue, magenta, lightmagenta, green, lightgreen, yellow, cyan, lightcyan"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2016-04-08 02:57:44		Option changed: weechat.color.chat_nick_colors = "red,lightred,blue,lightblue,magenta,lightmagenta,green,lightgreen,yellow,cyan,lightcyan"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2016-04-08 04:29:20		python: scripts unloaded
+2016-04-08 04:29:20		perl: scripts unloaded

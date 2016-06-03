@@ -1,0 +1,74 @@
+[2016-05-31 22:37:16] WeeChat 1.5 (compiled on May 30 2016 22:19:56)
+[2016-05-31 22:37:16] Reading configuration file sec.conf
+[2016-05-31 22:37:16] Reading configuration file weechat.conf
+[2016-05-31 22:37:16] Reading configuration file plugins.conf
+[2016-05-31 22:37:16] Reading configuration file charset.conf
+[2016-05-31 22:37:16] Reading configuration file logger.conf
+[2016-05-31 22:37:16] Reading configuration file exec.conf
+[2016-05-31 22:37:16] Reading configuration file trigger.conf
+[2016-05-31 22:37:16] Reading configuration file alias.conf
+[2016-05-31 22:37:16] Reading configuration file xfer.conf
+[2016-05-31 22:37:16] Reading configuration file irc.conf
+[2016-05-31 22:37:16] Reading configuration file relay.conf
+[2016-05-31 22:37:16] Reading configuration file buffers.conf
+[2016-05-31 22:37:16] Reading configuration file iset.conf
+[2016-05-31 22:37:16] Reading configuration file yaurls.conf
+[2016-05-31 22:37:16] Reading configuration file autosort.conf
+[2016-05-31 22:37:16] Writing configuration file autosort.conf
+[2016-05-31 22:37:16] Reading configuration file buffer_autoset.conf
+[2016-05-31 22:37:16] Reading configuration file colorize_nicks.conf
+[2016-05-31 22:37:16] Reading configuration file script.conf
+[2016-05-31 22:37:19] irc: connecting to server localhost/6667...
+[2016-05-31 22:37:29] irc: connecting to server localhost/6667...
+[2016-05-31 22:37:49] irc: connecting to server localhost/6667...
+[2016-05-31 22:37:49] Writing configuration file irc.conf
+[2016-05-31 22:37:49] Writing configuration file irc.conf
+[2016-05-31 22:37:49] Writing configuration file irc.conf
+[2016-05-31 22:37:49] Writing configuration file irc.conf
+[2016-05-31 22:39:46] Writing configuration file irc.conf
+[2016-05-31 22:39:48] Writing configuration file irc.conf
+[2016-05-31 22:39:50] Writing configuration file irc.conf
+[2016-05-31 22:39:51] Writing configuration file sec.conf
+[2016-05-31 22:39:51] Writing configuration file weechat.conf
+[2016-05-31 22:39:51] Writing configuration file plugins.conf
+[2016-05-31 22:39:51] Writing configuration file charset.conf
+[2016-05-31 22:39:51] Writing configuration file logger.conf
+[2016-05-31 22:39:51] Writing configuration file exec.conf
+[2016-05-31 22:39:51] Writing configuration file trigger.conf
+[2016-05-31 22:39:51] Writing configuration file alias.conf
+[2016-05-31 22:39:51] Writing configuration file xfer.conf
+[2016-05-31 22:39:51] Writing configuration file irc.conf
+[2016-05-31 22:39:51] Writing configuration file relay.conf
+[2016-05-31 22:39:51] Writing configuration file buffers.conf
+[2016-05-31 22:39:51] Writing configuration file iset.conf
+[2016-05-31 22:39:51] Writing configuration file yaurls.conf
+[2016-05-31 22:39:51] Writing configuration file autosort.conf
+[2016-05-31 22:39:51] Writing configuration file buffer_autoset.conf
+[2016-05-31 22:39:51] Writing configuration file colorize_nicks.conf
+[2016-05-31 22:39:51] Writing configuration file script.conf
+[2016-05-31 22:40:09] Writing configuration file irc.conf
+[2016-05-31 22:40:17] Writing configuration file irc.conf
+[2016-05-31 23:03:45] irc: connecting to server chat.freenode.net/6667...
+[2016-05-31 23:03:59] Writing configuration file irc.conf
+[2016-05-31 23:04:00] Writing configuration file irc.conf
+[2016-05-31 23:04:00] Writing configuration file irc.conf
+[2016-05-31 23:04:00] Writing configuration file irc.conf
+[2016-05-31 23:05:04] irc: connecting to server irc.oftc.net/6667...
+[2016-05-31 23:05:16] Writing configuration file irc.conf
+[2016-05-31 23:10:11] irc: connecting to server irc.rizon.net/6667...
+[2016-05-31 23:10:18] Writing configuration file irc.conf
+[2016-05-31 23:10:24] Writing configuration file irc.conf
+[2016-05-31 23:10:41] Writing configuration file irc.conf
+[2016-05-31 23:10:47] Writing configuration file irc.conf
+[2016-05-31 23:11:09] Writing configuration file irc.conf
+[2016-06-01 01:31:36] Writing configuration file irc.conf
+[2016-06-01 01:31:46] irc: connecting to server irc.rizon.net/6667...
+[2016-06-01 01:31:52] Writing configuration file irc.conf
+[2016-06-01 01:31:54] Writing configuration file irc.conf
+[2016-06-01 20:09:11] Writing configuration file irc.conf
+[2016-06-01 20:14:08] Writing configuration file irc.conf
+[2016-06-02 11:29:08] Writing configuration file irc.conf
+[2016-06-02 11:29:15] Writing configuration file irc.conf
+[2016-06-02 11:31:10] Writing configuration file irc.conf
+[2016-06-02 12:08:20] Writing configuration file irc.conf
+[2016-06-02 17:54:01] Writing configuration file irc.conf

@@ -1,0 +1,39 @@
+		@font-face { 
+    		font-family: Open Sans; 
+    		src: url('OpenSans-Regular.ttf'); 
+		} 
+		body {
+			background-color: #040306;
+		}
+		#linkheader {
+			font-size: 19px;
+			color: #504459;
+		}
+
+		#block {
+			text-align: center;
+
+		}
+		#column {
+			text-align: center;
+			display: inline-block;
+			padding-left: 50px;
+			padding-right: 50px;
+		}
+
+		A:link {
+			text-decoration: none;
+			color: #aca9a8;
+			font-size: 12px;
+
+		} 
+	
+		A:visited{
+			text-decoration: none;
+			color: #aca9a8;
+		} 
+	
+		A:hover{
+			text-decoration: none;
+			color: #504459;
+		}
